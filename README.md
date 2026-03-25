@@ -131,6 +131,7 @@ Also check my other collections [awesome e-commerce](https://github.com/frutik/a
 
 ## Unsorted
 
+- [IndexFox](https://indexfox.ai/) - AI-powered site search SaaS combining keyword and semantic search with instant AI-generated answers.
 - [sandbox Jun 2021](https://github.com/frutik/awesome-search/issues/19)
 - [sandbox May 2021](https://github.com/frutik/awesome-search/issues/18)
 - [sandbox April 2021](https://github.com/frutik/awesome-search/issues/17)
