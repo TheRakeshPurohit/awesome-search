@@ -350,15 +350,15 @@ SPLADE – a sparse bi-encoder BERT-based model achieves effective and efficient
 
 - [How to measure Diversity of Search Results](https://docs.google.com/presentation/d/1uz15rpxcUipvJMSfXc8_DpEnqtrH9PPx6UmF_dbdG-o/edit?slide=id.p#slide=id.p)
 
-#### Focused on interactions
+#### Behavioral / Product
 
 ##### Zero results
 
 ##### Zero clicks
 
+## Evaluation Modes
 
-
-### Offline measuring
+### Offline
 
 * [How to Implement a Normalized Discounted Cumulative Gain (NDCG) Ranking Quality Scorer in Quepid](https://opensourceconnections.com/blog/2018/02/26/ndcg-scorer-in-quepid/)
 * [Compute Mean Reciprocal Rank (MRR) using Pandas](https://softwaredoug.com/blog/2021/04/21/compute-mrr-using-pandas.html)
@@ -380,7 +380,7 @@ add something on clicks streams
 * [Improving retrieval with LLM-as-a-judge](https://blog.vespa.ai/improving-retrieval-with-llm-as-a-judge/)
 * [LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods](https://arxiv.org/abs/2412.05579)
 
-### Online measuring
+### Online
 
 * [How we Compute NDCG in Daraz. E-Commerce](https://medium.com/@hassam.chundrigar520/how-we-compute-ndcg-in-daraz-e-commerce-9a103b444c9f)
 
