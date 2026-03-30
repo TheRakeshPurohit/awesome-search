@@ -287,12 +287,12 @@ SPLADE – a sparse bi-encoder BERT-based model achieves effective and efficient
 
 ### Evaluation Paradigms
 
-#### Session Evaluation
+#### Session-based Evaluation
 
 - [Session vs Query based search evals](https://softwaredoug.com/blog/2026/03/30/session-vs-query-based-search-evals)
 - [Measuring Search Effectiveness](https://dtunkelang.medium.com/measuring-search-effectiveness-a320bd6bdd7a)
 
-#### Query Evaluation
+#### Query-based Evaluation
 
 ##### Random sampling
 
