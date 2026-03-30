@@ -31,6 +31,7 @@ Also check my other collections [awesome e-commerce](https://github.com/frutik/a
   - [Multimodal search](#multimodal-search)
     - [Multimodality Problems](#multimodality-problems)
 - [Search Quality Assurance](#search-quality-assurance)
+  - [Session vs Query Evaluation](#session-vs-query-evaluation)
   - [How to select queries](#how-to-select-queries)
     - [Random sampling](#random-sampling)
     - [Stratified sampling](#stratified-sampling)
