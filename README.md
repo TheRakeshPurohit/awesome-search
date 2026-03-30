@@ -357,31 +357,31 @@ SPLADE – a sparse bi-encoder BERT-based model achieves effective and efficient
 
 ##### Zero clicks
 
-## Evaluation Modes
+### Evaluation Modes
 
-### Offline
+#### Offline
 
 * [How to Implement a Normalized Discounted Cumulative Gain (NDCG) Ranking Quality Scorer in Quepid](https://opensourceconnections.com/blog/2018/02/26/ndcg-scorer-in-quepid/)
 * [Compute Mean Reciprocal Rank (MRR) using Pandas](https://softwaredoug.com/blog/2021/04/21/compute-mrr-using-pandas.html)
 
-#### Judgements
+##### Judgements
 
-##### HUman judgements
+###### HUman judgements
 
 * [What Is a Judgment List?](https://softwaredoug.com/blog/2021/02/21/what-is-a-judgment-list)
 * [Evaluating Search: Using Human Judgments](https://dtunkelang.medium.com/evaluating-search-using-human-judgement-fbb2eeba37d9)
 * [Measuring Search, A Human Approach](https://jamesrubinstein.medium.com/measuring-search-a-human-approach-acf54e2cf33d)
   
-##### Implicite judgements
+###### Implicite judgements
 
 add something on clicks streams
 
-##### Using LLM as judge
+###### Using LLM as judge
 
 * [Improving retrieval with LLM-as-a-judge](https://blog.vespa.ai/improving-retrieval-with-llm-as-a-judge/)
 * [LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods](https://arxiv.org/abs/2412.05579)
 
-### Online
+#### Online
 
 * [How we Compute NDCG in Daraz. E-Commerce](https://medium.com/@hassam.chundrigar520/how-we-compute-ndcg-in-daraz-e-commerce-9a103b444c9f)
 
