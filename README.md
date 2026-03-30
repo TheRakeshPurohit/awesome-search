@@ -296,22 +296,24 @@ SPLADE – a sparse bi-encoder BERT-based model achieves effective and efficient
 
 ## Search Quality Assurance
 
-### Session vs Query Evaluation
+### Evaluation Paradigms
+
+#### Session Evaluation
 
 - [Session vs Query based search evals](https://softwaredoug.com/blog/2026/03/30/session-vs-query-based-search-evals)
 
-### How to select queries
+#### Query Evaluation
 
-#### Random sampling
+##### Random sampling
 
 - [Simple random sample](https://en.wikipedia.org/wiki/Simple_random_sample)
 
-#### Stratified sampling
+##### Stratified sampling
 
 - [Stratified sampling](https://en.wikipedia.org/wiki/Stratified_sampling)
 - [The 8 Most Common Search Query Types ](https://baymard.com/blog/ecommerce-search-query-types)
 
-#### Probability-proportional-to-size sampling
+##### Probability-proportional-to-size sampling
 
 - [How to succeed with explicit relevance evaluation using Probability-Proportional-to-Size sampling](https://opensourceconnections.com/blog/2022/10/13/how-to-succeed-with-explicit-relevance-evaluation-using-probability-proportional-to-size-sampling/)
 
