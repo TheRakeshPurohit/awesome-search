@@ -15,7 +15,6 @@ Also check my other collections [awesome e-commerce](https://github.com/frutik/a
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Unsorted](#unsorted)
 - [General, fun, philosophy](#general-fun-philosophy)
 - [Types of search](#types-of-search)
   - [Classic/Lexical Search](#classiclexical-search)
@@ -125,6 +124,7 @@ Also check my other collections [awesome e-commerce](https://github.com/frutik/a
   - [Libs](#libs)
   - [Other](#other-1)
 - [Other awesome stuff](#other-awesome-stuff)
+- [Unsorted](#unsorted)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
