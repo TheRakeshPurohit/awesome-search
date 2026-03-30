@@ -128,15 +128,6 @@ Also check my other collections [awesome e-commerce](https://github.com/frutik/a
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Unsorted
-
-- [IndexFox](https://indexfox.ai/) - AI-powered site search SaaS combining keyword and semantic search with instant AI-generated answers.
-- [sandbox Jun 2021](https://github.com/frutik/awesome-search/issues/19)
-- [sandbox May 2021](https://github.com/frutik/awesome-search/issues/18)
-- [sandbox April 2021](https://github.com/frutik/awesome-search/issues/17)
-- [sandbox Dec 2020](https://github.com/frutik/awesome-search/issues/10)
-- [sandbox Jan 2020](https://github.com/frutik/awesome-search/issues/1)
-
 ## General, fun, philosophy
 
 * [Falsehoods Programmers Believe About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
@@ -1018,9 +1009,16 @@ Synonyms: autocomplete, search as you type, suggestions
 * [Query-Understanding](https://github.com/sanazb/Query-Understanding)
 * [Click models](https://github.com/filipecasal/knowledge-repo/blob/master/click_models.md)
 
+## Unsorted
+
+- [IndexFox](https://indexfox.ai/) - AI-powered site search SaaS combining keyword and semantic search with instant AI-generated answers.
+- [sandbox Jun 2021](https://github.com/frutik/awesome-search/issues/19)
+- [sandbox May 2021](https://github.com/frutik/awesome-search/issues/18)
+- [sandbox April 2021](https://github.com/frutik/awesome-search/issues/17)
+- [sandbox Dec 2020](https://github.com/frutik/awesome-search/issues/10)
+- [sandbox Jan 2020](https://github.com/frutik/awesome-search/issues/1)
+
 OLD TOC (to review)
-
-
 
 - [General, fun, philosophy](#general-fun-philosophy)
 - [Types of search](#types-of-search)
