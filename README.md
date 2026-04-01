@@ -29,6 +29,7 @@ Also check my other collections [awesome e-commerce](https://github.com/frutik/a
     - [Linear Score Combination](#linear-score-combination)
   - [Multimodal search](#multimodal-search)
     - [Multimodality Problems](#multimodality-problems)
+  - [Agentic search](#agentic-search)
 - [Search Quality Assurance](#search-quality-assurance)
   - [Evaluation Paradigms](#evaluation-paradigms)
     - [Session-based Evaluation](#session-based-evaluation)
