@@ -418,9 +418,11 @@ add something on clicks streams
 * [BM25 The Next Generation of Lucene Relevance](https://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/)
 * [Lucene Similarities (BM25, DFR, DFI, IB, LM) Explained](https://sematext.com/blog/search-relevance-solr-elasticsearch-similarity/)
 
-###### Bayesian BM25 (BBM25)
+###### Bayesian BM25 (BB25)
 
 - [Bayesian BM25 is cool](https://softwaredoug.com/blog/2026/03/16/bayesian-bm25-is-cool)
+- [Releasing bb25 0.2.0: Why Bayesian BM25 (bb25) extends well far-beyond search?](https://www.linkedin.com/pulse/releasing-bb25-020-why-bayesian-bm25-extends-well-sigrid-jin-axyzc/)
+
 
 ### Ranking
 
