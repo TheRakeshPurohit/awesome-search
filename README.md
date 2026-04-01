@@ -283,6 +283,10 @@ SPLADE – a sparse bi-encoder BERT-based model achieves effective and efficient
 
 - [Characterizing and Addressing the Contrastive Gap](https://arxiv.org/abs/2405.18570)
 
+### Agentic search
+
+- [Agentic Search as an Agile Engineering Process](https://dtunkelang.medium.com/agentic-search-as-an-agile-engineering-process-5514b0790e8e)
+
 ## Search Quality Assurance
 
 ### Evaluation Paradigms
