@@ -101,6 +101,7 @@ Also check my other collections [awesome e-commerce](https://github.com/frutik/a
 - [Management, Search Team](#management-search-team)
   - [Job Interviews](#job-interviews)
   - [Engineering](#engineering)
+- [Economics of Search](#economics-of-search)
 - [Blogposts series](#blogposts-series)
   - [Search Optimization 101 (by Charlie Hull)](#search-optimization-101-by-charlie-hull)
   - [Query Understanding (by Daniel Tunkelang)](#query-understanding-by-daniel-tunkelang)
