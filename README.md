@@ -809,7 +809,7 @@ Synonyms: autocomplete, search as you type, suggestions
 
 * [List of papers](PAPERS.md)
 
-## Management, Search Team
+## Search Team. Managment, composition, hiring
 
 * [Search is a Team Sport](https://medium.com/search-in-21st-century/search-is-a-team-sport-400eecdfe736)
 * [Thoughts about Managing Search Teams](https://medium.com/@dtunkelang/thoughts-about-managing-search-teams-f8d2f54fbed7)
