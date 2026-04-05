@@ -829,6 +829,8 @@ Synonyms: autocomplete, search as you type, suggestions
 
 * [Technical debt in search](https://twitter.com/gsingers/status/1655286486692970497?t=7HVu0Kc2vXT5NPHH_bB2uA&s=19)
 
+## Economics of Search
+
 ## Blogposts series
 
 ### Search Optimization 101 (by Charlie Hull)
