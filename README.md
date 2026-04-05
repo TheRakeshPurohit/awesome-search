@@ -98,7 +98,7 @@ Also check my other collections [awesome e-commerce](https://github.com/frutik/a
   - [Books](#books)
   - [Blogs and Portals](#blogs-and-portals)
   - [Papers](#papers)
-- [Management, Search Team](#management-search-team)
+- [Search Team. Managment, composition, hiring](#search-team-managment-composition-hiring)
   - [Job Interviews](#job-interviews)
   - [Engineering](#engineering)
 - [Economics of Search](#economics-of-search)
