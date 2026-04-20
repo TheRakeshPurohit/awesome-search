@@ -349,11 +349,18 @@ SPLADE – a sparse bi-encoder BERT-based model achieves effective and efficient
 
 - [How to measure Diversity of Search Results](https://docs.google.com/presentation/d/1uz15rpxcUipvJMSfXc8_DpEnqtrH9PPx6UmF_dbdG-o/edit?slide=id.p#slide=id.p)
 
-#### Behavioral / Product
+#### Behavioral / Product / Performance
+
+##### Clicks
+
+###### Zero clicks
+
+###### Clicks residual
+
+- [Click Residual: A Query Success Metric](https://observer.wunderwood.org/2022/08/08/click-residual-a-query-success-metric/)
 
 ##### Zero results
 
-##### Zero clicks
 
 ### Evaluation Modes
 
