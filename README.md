@@ -37,7 +37,7 @@ Also check my other collections [awesome e-commerce](https://github.com/frutik/a
   - [Metrics](#metrics)
     - [Focused on ranking quality](#focused-on-ranking-quality)
     - [Focused on diversity of results](#focused-on-diversity-of-results)
-    - [Behavioral / Product](#behavioral--product)
+    - [Behavioral / Product / Performance](#behavioral--product--performance)
   - [Evaluation Modes](#evaluation-modes)
     - [Offline](#offline)
     - [Online](#online)
