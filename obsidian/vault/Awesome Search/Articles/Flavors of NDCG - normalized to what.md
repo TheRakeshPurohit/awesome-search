@@ -39,6 +39,10 @@ Assumes maximum possible labels in all positions. Measures the entire system's a
 Choosing the wrong variant can mislead optimization efforts if misaligned with actual business goals.
 
 
+## Related Topics
+
+- [[NDCG Variants]] — the topic hub synthesizing both axes of NDCG flavors
+
 ## Related Concepts
 
 - [[NDCG]]

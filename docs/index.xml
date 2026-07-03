@@ -10,7 +10,19 @@
     <link>https://frutik.github.io/awesome-search/People/Doug-Turnbull</link>
     <guid>https://frutik.github.io/awesome-search/People/Doug-Turnbull</guid>
     <description><![CDATA[ Doug Turnbull Co-founder of OpenSource Connections (OSC); co-author of Relevant Search (O’Reilly). ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:45:25 GMT</pubDate>
+    <pubDate>Fri, 03 Jul 2026 09:06:49 GMT</pubDate>
+  </item><item>
+    <title>Vespa</title>
+    <link>https://frutik.github.io/awesome-search/Companies/Vespa</link>
+    <guid>https://frutik.github.io/awesome-search/Companies/Vespa</guid>
+    <description><![CDATA[ Vespa What They Build Vespa is an open-source big data serving engine originally developed by Yahoo and now maintained as an independent open-source project (vespa.ai). ]]></description>
+    <pubDate>Fri, 03 Jul 2026 08:46:00 GMT</pubDate>
+  </item><item>
+    <title>History</title>
+    <link>https://frutik.github.io/awesome-search/History</link>
+    <guid>https://frutik.github.io/awesome-search/History</guid>
+    <description><![CDATA[ Awesome Search — Note History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 08:46:00 GMT</pubDate>
   </item><item>
     <title>All about Information Retrieval &amp; Search</title>
     <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
@@ -28,12 +40,6 @@
     <link>https://frutik.github.io/awesome-search/Concepts/Search-Evaluation</link>
     <guid>https://frutik.github.io/awesome-search/Concepts/Search-Evaluation</guid>
     <description><![CDATA[ Search Evaluation Definition Search evaluation is the systematic process of measuring how well a search system serves user information needs. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:31:47 GMT</pubDate>
-  </item><item>
-    <title>History</title>
-    <link>https://frutik.github.io/awesome-search/History</link>
-    <guid>https://frutik.github.io/awesome-search/History</guid>
-    <description><![CDATA[ Awesome Search — Note History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
     <pubDate>Fri, 03 Jul 2026 08:31:47 GMT</pubDate>
   </item><item>
     <title>Index</title>
@@ -58,12 +64,6 @@
     <link>https://frutik.github.io/awesome-search/Articles/How-to-Securely-Hook-Up-Quepid-to-Vespa</link>
     <guid>https://frutik.github.io/awesome-search/Articles/How-to-Securely-Hook-Up-Quepid-to-Vespa</guid>
     <description><![CDATA[ A proof-of-concept for wiring the Quepid relevance workbench to a Vespa Cloud application using read-only token authentication, a Custom Search API endpoint, and JavaScript result mappers — filling Vespa's gap in interactive offline relevance testing. ]]></description>
-    <pubDate>Thu, 02 Jul 2026 22:00:00 GMT</pubDate>
-  </item><item>
-    <title>Elasticsearch Relevance Studio</title>
-    <link>https://frutik.github.io/awesome-search/Tools/Elasticsearch-Relevance-Studio</link>
-    <guid>https://frutik.github.io/awesome-search/Tools/Elasticsearch-Relevance-Studio</guid>
-    <description><![CDATA[ Elasticsearch Relevance Studio Elasticsearch Relevance Studio (ESRS) is Elastic’s tool for managing the full lifecycle of search relevance engineering on top of Elasticsearch — defining scenarios, collecting ground-truth judgments, building and benchmarking search strategies, and iterating to optimi... ]]></description>
     <pubDate>Thu, 02 Jul 2026 22:00:00 GMT</pubDate>
   </item>
     </channel>

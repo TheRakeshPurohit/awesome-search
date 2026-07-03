@@ -7,6 +7,10 @@ tags:
 
 Chronological log of notes added to this knowledge graph. Newest first.
 
+## 2026-07-03 — NDCG Variants topic (the "Flavors of NDCG")
+
+Created [[NDCG Variants]], a Topic hub synthesizing [[Doug Turnbull]]'s "flavors of NDCG" across **two independent axes**: the *gain function* (Järvelin grade-gain vs. Burges exponential `2^rel−1`) and the *normalization target* ("normalized to what?" — local / recall / global / max), plus `@k` cutoffs and per-library defaults (scikit-learn, RankLib, [[LightGBM]], MS MARCO / BEIR, [[Quepid]]). Consolidates the two existing article clippings ([[Flavors of NDCG]], [[Flavors of NDCG - normalized to what]]) that each covered only one axis. Backlinked from the [[NDCG]] concept, both source articles (new Related Topics sections), [[global_toc]], [[Index]], [[Topics]], and [[All about Information Retrieval & Search]].
+
 ## 2026-07-03 — Hooking Quepid to Vespa (1 note)
 
 Added [[How to Securely Hook Up Quepid to Vespa]] by [[Charlie Hull]] ([[The Search Juggler]]). A proof-of-concept for the vault's recurring theme — driving [[Quepid]] against a non-Lucene backend as a **custom search API**. Here the backend is [[Vespa]] Cloud, authenticated with a read-only **token** (Quepid can't use Vespa's self-signed client certs) and parsed via JavaScript result mappers. Fills Vespa's gap in interactive offline relevance testing and points toward exporting Quepid ratings as re-ranking training data. Companion to a Maven Lightning Lesson co-presented with [[Trey Grainger]]. Backlinked from [[Charlie Hull]], [[Quepid]], [[Vespa]], and the [[MOC - Search Quality Assurance and Query Understanding|Search QA MOC]] (Quepid in Practice).

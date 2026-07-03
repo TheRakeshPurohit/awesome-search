@@ -78,6 +78,10 @@ NDCG normalizes by IDCG (ideal DCG). The "ideal" assumes the best possible ranki
 - [[Compute MRR using Pandas]] — same author, simpler metric
 - [[Evaluating Search - Using Human Judgments]] — how judgments feed into NDCG
 
+## Related Topics
+
+- [[NDCG Variants]] — the topic hub synthesizing both axes of NDCG flavors
+
 ## Related Concepts
 
 - [[NDCG]] — primary topic

@@ -66,6 +66,8 @@ The `2^rel - 1` transform emphasizes high-relevance documents more strongly.
 
 Both normalize to NDCG the same way; the IDCG changes accordingly. Be explicit about which variant you use when comparing systems.
 
+This is only one of *two* axes of ambiguity — the gain function (above) and the **normalization target** ("normalized to what?"). See [[NDCG Variants]] for the full two-axis treatment, library defaults, and practical guidance.
+
 ## NDCG@k Choices
 
 - **NDCG@3**: measures top-3, relevant for autocomplete/instant answers

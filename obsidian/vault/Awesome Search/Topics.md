@@ -27,6 +27,7 @@ Practice-oriented guides — "how to *do* something in search." The fastest on-r
 - [[Search Quality Assurance]]
 - [[A-B Testing for Search]]
 - [[Duality in Measuring Search]]
+- [[NDCG Variants]]
 - [[Query Understanding in Practice]]
 - [[Search UX]]
 - [[Search UX Research]]
