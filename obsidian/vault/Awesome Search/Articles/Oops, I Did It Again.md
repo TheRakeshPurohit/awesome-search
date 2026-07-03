@@ -45,7 +45,7 @@ By carrying the vector inside the case's query options, the per-query input limi
 
 ## Limitations & What's Next
 
-- Storing embeddings in query options currently requires generating a *whole* case file — there's no per-query API to add one at a time. The author is building an **unofficial Quepid API** to close that gap (later realized as `frutik777/quepid-api-unofficial`).
+- Storing embeddings in query options currently requires generating a *whole* case file — there's no per-query API to add one at a time. The author is building an **unofficial Quepid API** to close that gap (later realized as [quepid-api-unofficial](https://github.com/frutik/quepid-api-unofficial), published as the `frutik777/quepid-api-unofficial` Docker Hub image).
 - The same technique extends beyond pure semantic search to [[Hybrid Search]] and vector-based re-ranking.
 
 ## Related Concepts

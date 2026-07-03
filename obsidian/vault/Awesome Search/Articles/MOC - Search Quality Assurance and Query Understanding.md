@@ -120,6 +120,7 @@ How to build a representative query set for evaluation:
 - [[Oops, I Did It Again]] — [[Andrew Kornilov]]; case-file workaround for high-dimensional vectors
 - [[How to Evaluate Image Search in Qdrant Using Quepid Part 1]] — [[Andrew Kornilov]]; CLIP cross-modal data prep in [[Qdrant Vector DB]]
 - [[How to Evaluate Image Search in Qdrant Using Quepid Part 2]] — [[Andrew Kornilov]]; Qdrant-as-endpoint, query-option vector injection, image-rendering hacks + PR #1683
+- [[How to Securely Hook Up Quepid to Vespa]] — [[Charlie Hull]]; Quepid-as-custom-endpoint against [[Vespa]] Cloud via read-only token auth + JS result mappers
 
 ### Query Understanding
 - [[Query Understanding - Introduction 1]] — what is QU and why it matters

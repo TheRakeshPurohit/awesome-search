@@ -7,6 +7,10 @@ tags:
 
 Chronological log of notes added to this knowledge graph. Newest first.
 
+## 2026-07-03 — Hooking Quepid to Vespa (1 note)
+
+Added [[How to Securely Hook Up Quepid to Vespa]] by [[Charlie Hull]] ([[The Search Juggler]]). A proof-of-concept for the vault's recurring theme — driving [[Quepid]] against a non-Lucene backend as a **custom search API**. Here the backend is [[Vespa]] Cloud, authenticated with a read-only **token** (Quepid can't use Vespa's self-signed client certs) and parsed via JavaScript result mappers. Fills Vespa's gap in interactive offline relevance testing and points toward exporting Quepid ratings as re-ranking training data. Companion to a Maven Lightning Lesson co-presented with [[Trey Grainger]]. Backlinked from [[Charlie Hull]], [[Quepid]], [[Vespa]], and the [[MOC - Search Quality Assurance and Query Understanding|Search QA MOC]] (Quepid in Practice).
+
 ## 2026-07-03 — OpenSearch Search Relevance Workbench & Elastic Relevance Studio (4 notes)
 
 Filled the vault's biggest relevance-tooling gap: the vault had deep [[Quepid]] coverage but nothing on the **engine-native** evaluation tools that have emerged to rival it. Added both, plus a comparison note anchoring the three-way choice. Cross-engine takeaway: Elastic and OpenSearch are absorbing Quepid's offline-evaluation loop *into the engine itself*, adding behavior-driven (UBI/click) and agent-driven (LLM/MCP) judgments — and notably [[OpenSource Connections]] (Quepid's authors) also drove the OpenSearch tool, so it's the same community pushing the practice into the engines.

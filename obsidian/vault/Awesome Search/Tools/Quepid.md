@@ -69,8 +69,12 @@ Because Quepid drives any search engine over **HTTP**, it isn't tied to Elastics
 
 - **Collaborative team judging** — cases, teams, and books of judgements with explicit *information needs*; see [[Creating Judgement Lists with Quepid]].
 - **AI-generated judgements** — as of v8, an LLM can generate judgements to scale annotation ([[LLM as Judge]]).
-- **[[Vector Search Evaluation]]** — Quepid was built for text queries, so evaluating semantic/vector search needs workarounds: dimension reduction to fit the 2048-char query limit, injecting embeddings via query options (`#$qOption...##`) to dodge the JSON-validity catch-22, and generating whole case files via an (unofficial) API.
+- **[[Vector Search Evaluation]]** — Quepid was built for text queries, so evaluating semantic/vector search needs workarounds: dimension reduction to fit the 2048-char query limit, injecting embeddings via query options (`#$qOption...##`) to dodge the JSON-validity catch-22, and generating whole case files via an [unofficial HTTP API wrapper](https://github.com/frutik/quepid-api-unofficial) (see [Community Tooling](#community-tooling)).
 - **Image / cross-modal search** — registering a vector DB ([[Qdrant Vector DB]]) as a custom endpoint and hacking the scorer (or patching Quepid) to render image results in the rating UI.
+
+## Community Tooling
+
+- **[quepid-api-unofficial](https://github.com/frutik/quepid-api-unofficial)** ([[Andrew Kornilov]]) — an unofficial, **stateless** HTTP/REST API wrapper over a self-hosted Quepid (compatible with Quepid 7.18.1). Quepid's official API has no endpoint to add queries/cases programmatically one at a time; this wrapper closes that gap. It exposes Swagger/OpenAPI docs at `/api/docs`, reuses Quepid's own API tokens, talks to Quepid's MySQL backend, and ships Docker Compose + Kubernetes/Helm deployment (published as the `frutik777/quepid-api-unofficial` Docker Hub image). It's the machinery behind the case-file automation in [[Oops, I Did It Again]] and the [[Vector Search Evaluation]] / image-search series.
 
 ## Related Articles
 - [[Implementing NDCG Scorer in Quepid]]
@@ -83,6 +87,8 @@ Because Quepid drives any search engine over **HTTP**, it isn't tied to Elastics
 - [[Oops, I Did It Again]] — case-file workaround
 - [[How to Evaluate Image Search in Qdrant Using Quepid Part 1]]
 - [[How to Evaluate Image Search in Qdrant Using Quepid Part 2]]
+- [[How to Securely Hook Up Quepid to Vespa]] — [[Charlie Hull]] wiring Quepid to [[Vespa]] Cloud as a custom endpoint (token auth)
 
 ## People
 - [[Doug Turnbull]] — co-creator
+- [[Andrew Kornilov]] — author of the unofficial API wrapper; vector/image-search evaluation hacks

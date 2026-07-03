@@ -22,6 +22,7 @@ created: 2026-05-17
 - [[Search Optimization 101 - How do I know my search is broken]]
 - [[Search Optimization 101 - How do you fix a broken search]]
 - [[Search Optimization 101 - Reducing business risk by optimizing search]]
+- [[How to Securely Hook Up Quepid to Vespa]] — wiring [[Quepid]] to a [[Vespa]] Cloud app via read-only token auth
 
 ## Affiliations
 - [[The Search Juggler]] — solo consultancy (current)
