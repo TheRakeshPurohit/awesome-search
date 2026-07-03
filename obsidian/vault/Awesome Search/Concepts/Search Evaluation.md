@@ -89,6 +89,16 @@ Public benchmark datasets provide pre-built judgment lists for offline evaluatio
 
 Use cases: benchmarking embeddings, LTR training, hybrid search evaluation, model transfer experiments.
 
+## Tools
+
+Tools that operationalize this offline loop (query set → judgments → experiment → metrics):
+
+- [[Quepid]] — engine-agnostic external dashboard; JavaScript custom scorers
+- [[Search Relevance Workbench]] — native inside [[OpenSearch]]; UBI implicit judgments + hybrid-search tuning
+- [[Elasticsearch Relevance Studio]] — Elastic's experimental agentic lifecycle tool (MCP-driven)
+- [[Rated Ranking Evaluator]] — CI/CD-oriented offline evaluation library for Solr/Elasticsearch (Sease)
+- See [[Relevance Evaluation Tools Compared]] for how they differ
+
 ## Related Concepts
 
 - [[NDCG]] — primary offline ranking metric

@@ -59,7 +59,7 @@ Practice-oriented guides — how to DO or deal with something in search.
 
 ## Tools
 
-[[Quepid]] · [[Querqy]] · [[Elasticsearch]] · [[OpenSearch]] · [[Solr]] · [[Qdrant Vector DB]] · [[Weaviate Vector DB]] · [[Milvus Vector DB]]
+[[Quepid]] · [[Search Relevance Workbench]] · [[Elasticsearch Relevance Studio]] · [[Querqy]] · [[Elasticsearch]] · [[OpenSearch]] · [[Solr]] · [[Qdrant Vector DB]] · [[Weaviate Vector DB]] · [[Milvus Vector DB]]
 
 ## Companies
 

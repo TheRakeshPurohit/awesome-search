@@ -83,7 +83,7 @@ Change proposed
             └── conflicting → investigate before shipping
 ```
 
-**Tooling**: [[Quepid]] (judgment management + metric calculation), LTR plugins for Elasticsearch/Solr, RRE (Rated Ranking Evaluator) for CI/CD integration.
+**Tooling**: [[Quepid]] (judgment management + metric calculation), LTR plugins for Elasticsearch/Solr, [[Rated Ranking Evaluator]] (RRE) for CI/CD integration.
 
 ---
 
@@ -127,7 +127,7 @@ A relevance program needs:
 | Tool | Purpose |
 |------|---------|
 | [[Quepid]] | Judgment management, NDCG/MRR scoring, team collaboration |
-| RRE | CI/CD relevance regression for Elasticsearch/Solr |
+| [[Rated Ranking Evaluator]] (RRE) | CI/CD relevance regression for Elasticsearch/Solr |
 | Elasticsearch Learning to Rank plugin | LTR model training + serving |
 | Custom notebooks | Exploratory analysis, metric visualization |
 

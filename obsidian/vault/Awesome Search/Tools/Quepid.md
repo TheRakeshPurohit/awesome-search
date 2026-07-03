@@ -49,8 +49,12 @@ This makes it straightforward to implement NDCG, DCG, or custom business metrics
 | Non-technical stakeholder review | Custom analysis across many system variants |
 
 ## Related Tools
-- **RRE** ([Rated Ranking Evaluator](https://github.com/SeaseLtd/rated-ranking-evaluator)) — CI/CD-oriented counterpart from [[Sease]]; batch evaluation
+- **[[Search Relevance Workbench]]** — [[OpenSearch]]'s native, in-engine successor to this workflow (query sets / judgments / experiments); it can **import Quepid CSV judgments**, and adds UBI-based implicit judgments and hybrid-search auto-tuning
+- **[[Elasticsearch Relevance Studio]]** — Elastic's experimental, agentic in-house counterpart for [[Elasticsearch]]
+- **[[Rated Ranking Evaluator]]** (RRE) — CI/CD-oriented counterpart from [[Sease]]; a JVM/Maven library for batch, in-build evaluation
 - **SMUI / [[Querqy]]** — complementary tool for managing query rewriting rules
+
+See [[Relevance Evaluation Tools Compared]] for a full Quepid vs. Workbench vs. Relevance Studio breakdown.
 
 ## Related Concepts
 - [[Judgment Lists]] — the input data Quepid manages
@@ -61,7 +65,7 @@ This makes it straightforward to implement NDCG, DCG, or custom business metrics
 
 ## Practical Use Cases
 
-Beyond the canonical lexical/Elasticsearch workflow, practitioners push Quepid toward harder cases:
+Because Quepid drives any search engine over **HTTP**, it isn't tied to Elasticsearch/Solr — there are known cases of using it for relevance tracking against **[[Vespa]]**, **[[Qdrant Vector DB|Qdrant]]**, and arbitrary **custom search APIs** (wired in as a custom endpoint). Beyond the canonical lexical/Elasticsearch workflow, practitioners push Quepid toward harder cases:
 
 - **Collaborative team judging** — cases, teams, and books of judgements with explicit *information needs*; see [[Creating Judgement Lists with Quepid]].
 - **AI-generated judgements** — as of v8, an LLM can generate judgements to scale annotation ([[LLM as Judge]]).

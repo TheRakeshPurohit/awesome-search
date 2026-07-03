@@ -30,6 +30,9 @@ The software landscape for building and evaluating search — engines, vector da
 ## Query tuning & evaluation
 - [[Querqy]] — rules-based query rewriting
 - [[Quepid]] — judgment lists and relevance measurement
+- [[Search Relevance Workbench]] — OpenSearch-native relevance evaluation (query sets, judgments, experiments)
+- [[Elasticsearch Relevance Studio]] — Elastic's experimental agentic relevance-engineering tool
+- [[Rated Ranking Evaluator]] — CI/CD-oriented offline evaluation library for Solr/Elasticsearch (Sease)
 - [[eland]] — Python/ML interface for Elasticsearch
 
 ## Postgres-based search

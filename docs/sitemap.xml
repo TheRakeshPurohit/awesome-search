@@ -1656,7 +1656,7 @@
     <lastmod>2026-05-31T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People/Doug-Turnbull</loc>
-    <lastmod>2026-07-01T11:37:11.437Z</lastmod>
+    <lastmod>2026-07-03T08:31:12.695Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People/Elzbieta-Jakubowska</loc>
     <lastmod>2026-06-27T15:01:01.000Z</lastmod>
@@ -1928,6 +1928,9 @@
     <loc>https://frutik.github.io/awesome-search/Tools/CatBoost</loc>
     <lastmod>2026-06-11T09:20:46.000Z</lastmod>
   </url><url>
+    <loc>https://frutik.github.io/awesome-search/Tools/Elasticsearch-Relevance-Studio</loc>
+    <lastmod>2026-07-02T22:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://frutik.github.io/awesome-search/Tools/Elasticsearch</loc>
     <lastmod>2026-05-18T22:00:00.000Z</lastmod>
   </url><url>
@@ -1967,8 +1970,14 @@
     <loc>https://frutik.github.io/awesome-search/Tools/RankLib</loc>
     <lastmod>2026-06-13T07:23:02.000Z</lastmod>
   </url><url>
+    <loc>https://frutik.github.io/awesome-search/Tools/Rated-Ranking-Evaluator</loc>
+    <lastmod>2026-07-02T22:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://frutik.github.io/awesome-search/Tools/SID-1</loc>
     <lastmod>2026-06-17T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://frutik.github.io/awesome-search/Tools/Search-Relevance-Workbench</loc>
+    <lastmod>2026-07-02T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Tools/Solr</loc>
     <lastmod>2026-06-30T22:00:00.000Z</lastmod>
@@ -2095,6 +2104,9 @@
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Topics/Reasoning-Reranking</loc>
     <lastmod>2026-06-17T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://frutik.github.io/awesome-search/Topics/Relevance-Evaluation-Tools-Compared</loc>
+    <lastmod>2026-07-02T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Topics/Relevance-Program-Setup</loc>
     <lastmod>2026-05-16T13:41:13.000Z</lastmod>

@@ -10,7 +10,31 @@
     <link>https://frutik.github.io/awesome-search/People/Doug-Turnbull</link>
     <guid>https://frutik.github.io/awesome-search/People/Doug-Turnbull</guid>
     <description><![CDATA[ Doug Turnbull Co-founder of OpenSource Connections (OSC); co-author of Relevant Search (O’Reilly). ]]></description>
-    <pubDate>Wed, 01 Jul 2026 11:37:11 GMT</pubDate>
+    <pubDate>Fri, 03 Jul 2026 08:31:12 GMT</pubDate>
+  </item><item>
+    <title>Elasticsearch Relevance Studio</title>
+    <link>https://frutik.github.io/awesome-search/Tools/Elasticsearch-Relevance-Studio</link>
+    <guid>https://frutik.github.io/awesome-search/Tools/Elasticsearch-Relevance-Studio</guid>
+    <description><![CDATA[ Elasticsearch Relevance Studio Elasticsearch Relevance Studio (ESRS) is Elastic’s tool for managing the full lifecycle of search relevance engineering on top of Elasticsearch — defining scenarios, collecting ground-truth judgments, building and benchmarking search strategies, and iterating to optimi... ]]></description>
+    <pubDate>Thu, 02 Jul 2026 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Rated Ranking Evaluator</title>
+    <link>https://frutik.github.io/awesome-search/Tools/Rated-Ranking-Evaluator</link>
+    <guid>https://frutik.github.io/awesome-search/Tools/Rated-Ranking-Evaluator</guid>
+    <description><![CDATA[ Rated Ranking Evaluator Rated Ranking Evaluator (RRE) is an open-source, offline search-quality evaluation library for Apache Solr and Elasticsearch, built and maintained by Sease. ]]></description>
+    <pubDate>Thu, 02 Jul 2026 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Search Relevance Workbench</title>
+    <link>https://frutik.github.io/awesome-search/Tools/Search-Relevance-Workbench</link>
+    <guid>https://frutik.github.io/awesome-search/Tools/Search-Relevance-Workbench</guid>
+    <description><![CDATA[ Search Relevance Workbench Search Relevance Workbench (SRW) is a native, open-source tool built into OpenSearch for systematically evaluating and improving search quality. ]]></description>
+    <pubDate>Thu, 02 Jul 2026 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Relevance Evaluation Tools Compared</title>
+    <link>https://frutik.github.io/awesome-search/Topics/Relevance-Evaluation-Tools-Compared</link>
+    <guid>https://frutik.github.io/awesome-search/Topics/Relevance-Evaluation-Tools-Compared</guid>
+    <description><![CDATA[ Relevance Evaluation Tools Compared A side-by-side comparison of four tools that operationalize offline Search Evaluation — turning judgments into ranking metrics you can iterate against: Quepid — the incumbent, engine-agnostic external dashboard from OpenSource Connections. ]]></description>
+    <pubDate>Thu, 02 Jul 2026 22:00:00 GMT</pubDate>
   </item><item>
     <title>All about Information Retrieval &amp; Search</title>
     <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
@@ -41,30 +65,6 @@
     <guid>https://frutik.github.io/awesome-search/History</guid>
     <description><![CDATA[ Awesome Search — Note History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
     <pubDate>Wed, 01 Jul 2026 11:27:28 GMT</pubDate>
-  </item><item>
-    <title>Index</title>
-    <link>https://frutik.github.io/awesome-search/Index</link>
-    <guid>https://frutik.github.io/awesome-search/Index</guid>
-    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Wed, 01 Jul 2026 11:27:28 GMT</pubDate>
-  </item><item>
-    <title>global_toc</title>
-    <link>https://frutik.github.io/awesome-search/global_toc</link>
-    <guid>https://frutik.github.io/awesome-search/global_toc</guid>
-    <description><![CDATA[ Global Table of Contents A map of every note in the vault organized by category and theme. ]]></description>
-    <pubDate>Wed, 01 Jul 2026 11:27:28 GMT</pubDate>
-  </item><item>
-    <title>Amazon OpenSearch Service now offers AI-assisted migrations</title>
-    <link>https://frutik.github.io/awesome-search/Articles/Amazon-OpenSearch-Service-now-offers-AI-assisted-migrations</link>
-    <guid>https://frutik.github.io/awesome-search/Articles/Amazon-OpenSearch-Service-now-offers-AI-assisted-migrations</guid>
-    <description><![CDATA[ Amazon OpenSearch Service now offers AI-assisted migrations Amazon Web Services announcement: Migration Assistant for Amazon OpenSearch Service now includes an AI-assisted experience that simplifies moving self-managed Solr, Elasticsearch, or OpenSearch deployments to OpenSearch Serverless or Manage... ]]></description>
-    <pubDate>Tue, 30 Jun 2026 22:00:00 GMT</pubDate>
-  </item><item>
-    <title>How I learned Vespa by thinking in Solr</title>
-    <link>https://frutik.github.io/awesome-search/Articles/How-I-learned-Vespa-by-thinking-in-Solr</link>
-    <guid>https://frutik.github.io/awesome-search/Articles/How-I-learned-Vespa-by-thinking-in-Solr</guid>
-    <description><![CDATA[ How I learned Vespa by thinking in Solr Sujit Pal (Technology Research Director, Elsevier Labs) documents how he flattened Vespa’s notoriously steep learning curve by mapping each Solr operation onto its Vespa equivalent. ]]></description>
-    <pubDate>Tue, 30 Jun 2026 22:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

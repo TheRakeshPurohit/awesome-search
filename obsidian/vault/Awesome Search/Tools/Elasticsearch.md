@@ -60,6 +60,7 @@ Key capabilities:
 - **[[Qdrant Vector DB]]** — purpose-built vector DB; stronger quantization
 - **[[Weaviate Vector DB]]** — vector DB with native reranking pipeline
 - **[[OpenSearch]]** — AWS fork of Elasticsearch; Apache 2.0 licensed
+- **[[Elasticsearch Relevance Studio]]** — Elastic's experimental, agentic relevance-engineering tool (scenarios, judgements, strategies, benchmarks) built on the ES Search API; see [[Relevance Evaluation Tools Compared]]
 - **[[Elasticsearch vs OpenSearch]]** — licensing, performance, and feature comparison
 
 ## Related Concepts

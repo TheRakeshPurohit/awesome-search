@@ -3,7 +3,7 @@ type: company
 aliases: ["OSC", "opensourceconnections.com"]
 category: technology-provider
 industry: [search consulting, open source]
-products: [Quepid (relevance evaluation SaaS), Rated Ranking Evaluator (RRE), search consulting]
+products: [Quepid (relevance evaluation SaaS), Elasticsearch Learning to Rank plugin, search consulting]
 search_domain: search relevance consulting, evaluation tooling
 people: ["[[Doug Turnbull]]", "[[Giovanni Fernandez-Kincade]]"]
 tags: [company, technology-provider, consulting, evaluation-tooling]
@@ -12,12 +12,16 @@ created: 2026-05-16
 
 # OpenSource Connections
 
-Search consulting firm and tooling company. Authors of many foundational search relevance articles and two widely-used open source evaluation tools.
+Search consulting firm and tooling company. Authors of many foundational search relevance articles and widely-used open source search tooling.
 
 ## Products
 
-- **Quepid** — web-based search relevance evaluation platform; run NDCG/P@K queries against live search engine, manage judgment lists, track quality over time
-- **Rated Ranking Evaluator (RRE)** — CI/CD-integrated search quality regression tool for Java-based projects
+- **[[Quepid]]** — web-based search relevance evaluation platform; run NDCG/P@K queries against a live search engine, manage judgment lists, track quality over time
+- **Elasticsearch Learning to Rank plugin** — the o19s `elasticsearch-learning-to-rank` plugin (2017); see [[Elasticsearch Learning to Rank]]
+- OSC also drove OpenSearch's native [[Search Relevance Workbench]]
+
+> [!note]
+> The CI/CD-oriented [[Rated Ranking Evaluator]] (RRE) is a separate tool from **[[Sease]]**, not an OSC product.
 
 ## Key People
 

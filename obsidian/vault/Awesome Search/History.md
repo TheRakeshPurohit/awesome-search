@@ -7,6 +7,22 @@ tags:
 
 Chronological log of notes added to this knowledge graph. Newest first.
 
+## 2026-07-03 — OpenSearch Search Relevance Workbench & Elastic Relevance Studio (4 notes)
+
+Filled the vault's biggest relevance-tooling gap: the vault had deep [[Quepid]] coverage but nothing on the **engine-native** evaluation tools that have emerged to rival it. Added both, plus a comparison note anchoring the three-way choice. Cross-engine takeaway: Elastic and OpenSearch are absorbing Quepid's offline-evaluation loop *into the engine itself*, adding behavior-driven (UBI/click) and agent-driven (LLM/MCP) judgments — and notably [[OpenSource Connections]] (Quepid's authors) also drove the OpenSearch tool, so it's the same community pushing the practice into the engines.
+
+**Tools** — [[Search Relevance Workbench]] (new — OpenSearch 3.1+ native tool: query sets / search configurations / judgments / experiments; three judgment sources incl. [[Implicit Judgments|UBI]] COEC implicit judgments and LLM-as-judge; unique hybrid-search grid-search optimization; imports Quepid CSV; Dashboards visualizations in 3.2); [[Elasticsearch Relevance Studio]] (new — Elastic's experimental React+Flask lifecycle app over the ES Search API: scenarios / judgements / strategies / benchmarks; drag-slider judging; NDCG/Precision/Recall/MRR + unrated-doc reporting; headline **MCP server** for agentic AI workflows); [[Rated Ranking Evaluator]] (new — [[Sease]]'s open-source, CI/CD-oriented offline evaluation *library* for Solr/Elasticsearch; JVM/Maven modules, corpus→topics→query-groups→queries domain model, immutable version-over-version delta tracking, broad metric set incl. ERR/F-measure, RRE Server dashboard + RRE Enterprise; resolves a long-standing dead link).
+
+**Topics** — [[Relevance Evaluation Tools Compared]] (new — four-way Quepid vs. Workbench vs. Relevance Studio vs. [[Rated Ranking Evaluator|RRE]]; at-a-glance / judgment-sources / experiment-capabilities / metrics tables + a "how to choose" guide).
+
+**People** — [[Daniel Wrigley]] linked (authored the OpenSearch SRW/judgments blog as well as the Quepid guide).
+
+**Updated** — [[Quepid]] (Related Tools → SRW/ESRS/RRE + comparison pointer), [[OpenSearch]] (Related Tools → SRW), [[Elasticsearch]] (Related Tools → ESRS), [[Search Evaluation]] (new Tools section), [[Sease]] (added RRE as its product), [[Relevance Program Setup]] (RRE wikilinked), [[Tools]], [[global_toc]], [[index|index.md]] / [[Index]] / [[All about Information Retrieval & Search]] (Tools highlight lists).
+
+**Correction** — [[OpenSource Connections]] previously mis-listed [[Rated Ranking Evaluator]] as an OSC product; RRE is [[Sease]]'s. OSC's products corrected to [[Quepid]] + the Elasticsearch LTR plugin, with a note pointing RRE to Sease.
+
+---
+
 ## 2026-07-01 — Solr↔Vespa Onboarding & AI-Assisted Migration (7 notes)
 
 Processed two Clippings articles that both orbit **cross-engine migration** — and created a [[Migration between Search Engines]] topic to anchor them alongside the existing ES→Vespa case studies.
@@ -421,6 +437,7 @@ The founding batch. Core articles, concept definitions, MOCs, and key people wer
 
 | Date | Notes Added | Running Total (approx.) |
 |------|------------|------------------------|
+| 2026-07-03 (relevance workbench, relevance studio & RRE) | 4 | ~645 |
 | 2026-07-01 (Solr↔Vespa onboarding & AI-assisted migration) | 7 | ~641 |
 | 2026-06-29 (Vinted dense retrieval & billion-scale) | 2 | ~634 |
 | 2026-06-29 (Vinted match-features) | 3 | ~632 |

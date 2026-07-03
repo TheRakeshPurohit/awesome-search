@@ -102,6 +102,7 @@ The gap is largest on complex, high-throughput workloads. At smaller scales the 
 
 - **[[Elasticsearch]]** — upstream project; faster but proprietary-licensed above 7.10
 - **[[Metarank]]** — external LambdaMART secondary re-ranker that integrates with OpenSearch (Remote Ranker Plugin RFC)
+- **[[Search Relevance Workbench]]** — native (3.1+) offline relevance-evaluation tool: query sets, judgments, experiments, and hybrid-search tuning inside OpenSearch Dashboards; see [[Relevance Evaluation Tools Compared]]
 - **OpenSearch Dashboards** — visualization layer (Kibana fork)
 
 ## Related Concepts

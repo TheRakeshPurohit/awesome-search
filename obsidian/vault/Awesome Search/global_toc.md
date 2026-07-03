@@ -73,7 +73,7 @@ A map of every note in the vault organized by category and theme.  This index tr
 [[E-commerce Search]] · [[Enterprise Search]] · [[Search using PostgreSQL]] · [[Search Platforms]] · [[Migration between Search Engines]] · [[Elasticsearch vs OpenSearch]]
 
 ### Quality & Operations
-[[Awesome Search/Topics/A-B Testing for Search|A-B Testing for Search]] · [[Duality in Measuring Search]] · [[Search Quality Assurance]] · [[Relevance Program Setup]] · [[Awesome Search/Topics/Search Observability|Search Observability]]
+[[Awesome Search/Topics/A-B Testing for Search|A-B Testing for Search]] · [[Duality in Measuring Search]] · [[Search Quality Assurance]] · [[Relevance Program Setup]] · [[Relevance Evaluation Tools Compared]] · [[Awesome Search/Topics/Search Observability|Search Observability]]
 
 ### Team, Career & Community
 [[Hiring for Search]] · [[How to Start a Career in Search]] · [[Managing a Search Team]] · [[Understaffed Search Team]] · [[Search Consultancy]] · [[Search Communities]] · [[Women of Search]] · [[Events and Conferences]]
@@ -98,7 +98,7 @@ A map of every note in the vault organized by category and theme.  This index tr
 [[LightGBM]] · [[XGBoost]] · [[CatBoost]] · [[RankLib]] · [[Metarank]] · [[eland]]
 
 ### Relevance & Query Tooling
-[[Querqy]] · [[Quepid]] · [[SID-1]]
+[[Querqy]] · [[Quepid]] · [[Search Relevance Workbench]] · [[Elasticsearch Relevance Studio]] · [[Rated Ranking Evaluator]] · [[SID-1]]
 
 ### ML & Model Serving
 [[LightGBM]] · [[XGBoost]] · [[CatBoost]] · [[RankLib]] · [[ONNX]] · [[eland]]
