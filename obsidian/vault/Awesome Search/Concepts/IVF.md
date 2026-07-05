@@ -74,8 +74,14 @@ Query vector
 ## Related Concepts
 - [[Dense Vector Retrieval]] — IVF is one of the main index types used here
 - [[HNSW]] — the alternative graph-based ANN index; usually higher recall at same memory
+- [[LSH]] — hash-bucket ANN index; another approximate alternative
+- [[FAISS]] — library exposing IVF as `IndexIVFFlat` / `IndexIVFPQ`
 - [[Vector Quantization]] — IVF-PQ and IVF-SQ combine IVF with quantization
 - [[Scalar Quantization]] — used in IVF-SQ variant
 - [[Binary Quantization]] — can be used inside IVF lists
 - [[ANN]] — parent concept
 - [[pgvector]] — its IVFFlat index is the IVF-Flat variant inside [[PostgreSQL]]; see [[Search using PostgreSQL]]
+
+## Articles
+
+- [[Choosing Indexes for Similarity Search (Faiss in Python)]] — James Briggs video showing IVF's `nlist`/`nprobe` tuning and the edge problem on Sift1M

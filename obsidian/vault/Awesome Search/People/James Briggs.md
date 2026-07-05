@@ -18,6 +18,8 @@ James Briggs is a technical writer and developer advocate at Pinecone, known for
 
 - [[SPLADE for Sparse Vector Search Explained]]
 - [[The Missing WHERE Clause in Vector Search 1]]
+- [[Nearest Neighbor Indexes for Similarity Search]]
+- [[Choosing Indexes for Similarity Search (Faiss in Python)]] — video
 
 ## Key Contributions
 
@@ -31,3 +33,9 @@ James Briggs is a technical writer and developer advocate at Pinecone, known for
 - [[Sparse Vector Retrieval]]
 - [[Vector Filtering]]
 - [[Dense Vector Retrieval]]
+- [[Approximate Nearest Neighbor Search]]
+- [[HNSW]] · [[IVF]] · [[LSH]]
+
+## Tools
+
+- [[FAISS]]

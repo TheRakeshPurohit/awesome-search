@@ -11,7 +11,7 @@ created: 2026-06-19
 The IR fundamentals that underpin everything in search. Don't try to read all of these at once — for a guided foundation order, see [[How to Start a Career in Search]]. If you learn only three: [[BM25]], [[Precision and Recall]], and how to measure a ranking change ([[NDCG]] + [[Judgment Lists]]).
 
 ## A
-- [[A-B Testing for Search]] · [[ACORN-1]] · [[APD]] · [[Agentic Query Workload]] · [[Agentic Search]] · [[Asymmetric Semantic Search]] · [[Autocomplete]]
+- [[A-B Testing for Search]] · [[ACORN-1]] · [[APD]] · [[Approximate Nearest Neighbor Search]] · [[Agentic Query Workload]] · [[Agentic Search]] · [[Asymmetric Semantic Search]] · [[Autocomplete]]
 
 ## B
 - [[BBQ]] · [[BERT]] · [[BM25]] · [[Bag-of-Documents Model]] · [[Bayesian BM25]] · [[Bi-Encoder]] · [[Binary Quantization]] · [[Block-Max WAND]]
@@ -44,7 +44,7 @@ The IR fundamentals that underpin everything in search. Don't try to read all of
 - [[Keywords Extraction]] · [[Knowledge Distillation]] · [[Knowledge Graph Search]]
 
 ## L
-- [[LLM as Judge]] · [[LTR Feature Engineering]] · [[LambdaLoss]] · [[LambdaMART]] · [[Late Interaction]] · [[Learned Sparse Retrieval]] · [[Learning to Rank]] · [[Linear Score Combination]] · [[Listwise Relevance Evaluation]] · [[LoRA]]
+- [[LSH]] · [[LLM as Judge]] · [[LTR Feature Engineering]] · [[LambdaLoss]] · [[LambdaMART]] · [[Late Interaction]] · [[Learned Sparse Retrieval]] · [[Learning to Rank]] · [[Linear Score Combination]] · [[Listwise Relevance Evaluation]] · [[LoRA]]
 
 ## M
 - [[MAP]] · [[MMR]] · [[MRR]] · [[MUVERA]] · [[Matryoshka Embeddings]] · [[Modality Gap]] · [[MonoT5]] · [[Multimodal Embeddings]]

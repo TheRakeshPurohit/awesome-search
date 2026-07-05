@@ -73,6 +73,8 @@ Four strategies ranked by filter selectivity:
 ## Related Concepts
 - [[Dense Vector Retrieval]] — HNSW is the dominant index used here
 - [[IVF]] — alternative cluster-based ANN index
+- [[LSH]] — hash-bucket ANN index; simpler but superseded by HNSW at high dimensionality
+- [[FAISS]] — library exposing HNSW as `IndexHNSWFlat`
 - [[Vector Quantization]] — compresses stored vectors; HNSW graph edges remain float32 or quantized
 - [[Scalar Quantization]] — often combined with HNSW (quantized storage + graph traversal)
 - [[Binary Quantization]] — extreme compression combined with HNSW; recall recovered via rescoring
@@ -87,3 +89,4 @@ Four strategies ranked by filter selectivity:
 - [[Exploring Hierarchical Navigable Small World]] — Vespa intern deep-dive; covers graph quality metrics, disconnected components, edge density, dimensionality reduction, and ACORN-1 comparison
 - [[Choosing a Vector Database for ANN Search at Reddit]] — Reddit's benchmark of Milvus vs Qdrant at 340M vectors; HNSW M=16, efConstruction=100 was the primary tested index configuration
 - [[Exploring Vector Databases with Milvus]] — deep dive into HNSW and quantization-based indexing in Milvus; n_probe tradeoffs; filtering strategies A–E
+- [[Choosing Indexes for Similarity Search (Faiss in Python)]] — James Briggs video benchmarking HNSW vs Flat, LSH, and IVF on Sift1M

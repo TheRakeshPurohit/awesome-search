@@ -10,61 +10,61 @@
     <link>https://frutik.github.io/awesome-search/People/Doug-Turnbull</link>
     <guid>https://frutik.github.io/awesome-search/People/Doug-Turnbull</guid>
     <description><![CDATA[ Doug Turnbull Co-founder of OpenSource Connections (OSC); co-author of Relevant Search (O’Reilly). ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:21:54 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 09:43:08 GMT</pubDate>
+  </item><item>
+    <title>Approximate Nearest Neighbor Search</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/Approximate-Nearest-Neighbor-Search</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/Approximate-Nearest-Neighbor-Search</guid>
+    <description><![CDATA[ Approximate Nearest Neighbor Search (ANN) Approximate Nearest Neighbor (ANN) search finds vectors close to a query vector without comparing against every vector in the dataset. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:37:34 GMT</pubDate>
+  </item><item>
+    <title>LSH</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/LSH</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/LSH</guid>
+    <description><![CDATA[ LSH — Locality Sensitive Hashing Locality Sensitive Hashing is an ANN method that hashes vectors so that similar vectors collide into the same bucket. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:35:30 GMT</pubDate>
+  </item><item>
+    <title>FAISS</title>
+    <link>https://frutik.github.io/awesome-search/Tools/FAISS</link>
+    <guid>https://frutik.github.io/awesome-search/Tools/FAISS</guid>
+    <description><![CDATA[ FAISS FAISS (Facebook AI Similarity Search) is Meta’s open-source C++/Python library for efficient similarity search and clustering of dense vectors. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:35:20 GMT</pubDate>
+  </item><item>
+    <title>All about Information Retrieval &amp; Search</title>
+    <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
+    <guid>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</guid>
+    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
+  </item><item>
+    <title>History</title>
+    <link>https://frutik.github.io/awesome-search/History</link>
+    <guid>https://frutik.github.io/awesome-search/History</guid>
+    <description><![CDATA[ Awesome Search — Note History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
+  </item><item>
+    <title>Index</title>
+    <link>https://frutik.github.io/awesome-search/Index</link>
+    <guid>https://frutik.github.io/awesome-search/Index</guid>
+    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
   </item><item>
     <title>The Search Engine Migration Circus</title>
     <link>https://frutik.github.io/awesome-search/Videos/Max-Irwin---The-Search-Engine-Migration-Circus</link>
     <guid>https://frutik.github.io/awesome-search/Videos/Max-Irwin---The-Search-Engine-Migration-Circus</guid>
     <description><![CDATA[ The Search Engine Migration Circus 📺 Watch: www.youtube.com/watch (Haystack Live playlist) Haystack Live talk by Max Irwin (OpenSource Connections), drawn from his search migration experience at Wolters Kluwer (MediRegs division and the Search Center of Excellence). ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:12:23 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
+  </item><item>
+    <title>global_toc</title>
+    <link>https://frutik.github.io/awesome-search/global_toc</link>
+    <guid>https://frutik.github.io/awesome-search/global_toc</guid>
+    <description><![CDATA[ Global Table of Contents A map of every note in the vault organized by category and theme. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
   </item><item>
     <title>Videos</title>
     <link>https://frutik.github.io/awesome-search/Videos</link>
     <guid>https://frutik.github.io/awesome-search/Videos</guid>
     <description><![CDATA[ Videos Conference talks and recorded presentations on search &amp; information retrieval — the practitioner knowledge that lives in slides and hallway war stories rather than papers. ]]></description>
     <pubDate>Sat, 04 Jul 2026 22:00:00 GMT</pubDate>
-  </item><item>
-    <title>All about Information Retrieval &amp; Search</title>
-    <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
-    <guid>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</guid>
-    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
-  </item><item>
-    <title>NDCG (Normalized Discounted Cumulative Gain)</title>
-    <link>https://frutik.github.io/awesome-search/Concepts/NDCG</link>
-    <guid>https://frutik.github.io/awesome-search/Concepts/NDCG</guid>
-    <description><![CDATA[ NDCG (Normalized Discounted Cumulative Gain) Definition NDCG is the most widely used ranking quality metric in information retrieval. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
-  </item><item>
-    <title>History</title>
-    <link>https://frutik.github.io/awesome-search/History</link>
-    <guid>https://frutik.github.io/awesome-search/History</guid>
-    <description><![CDATA[ Awesome Search — Note History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
-  </item><item>
-    <title>Index</title>
-    <link>https://frutik.github.io/awesome-search/Index</link>
-    <guid>https://frutik.github.io/awesome-search/Index</guid>
-    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
-  </item><item>
-    <title>global_toc</title>
-    <link>https://frutik.github.io/awesome-search/global_toc</link>
-    <guid>https://frutik.github.io/awesome-search/global_toc</guid>
-    <description><![CDATA[ Global Table of Contents A map of every note in the vault organized by category and theme. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
-  </item><item>
-    <title>Vespa</title>
-    <link>https://frutik.github.io/awesome-search/Companies/Vespa</link>
-    <guid>https://frutik.github.io/awesome-search/Companies/Vespa</guid>
-    <description><![CDATA[ Vespa What They Build Vespa is an open-source big data serving engine originally developed by Yahoo and now maintained as an independent open-source project (vespa.ai). ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:46:00 GMT</pubDate>
-  </item><item>
-    <title>Sease</title>
-    <link>https://frutik.github.io/awesome-search/Companies/Sease</link>
-    <guid>https://frutik.github.io/awesome-search/Companies/Sease</guid>
-    <description><![CDATA[ Sease About Italian search engineering and consulting company specializing in Apache Solr, Elasticsearch, and neural information retrieval. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:31:47 GMT</pubDate>
   </item>
     </channel>
   </rss>

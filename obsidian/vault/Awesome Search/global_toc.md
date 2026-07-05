@@ -21,7 +21,7 @@ A map of every note in the vault organized by category and theme.  This index tr
 [[Set-Theoretic Embeddings]] · [[Box Embedding]] · [[Gaussian Embedding]] · [[Poincaré Embedding]] · [[Region-Based Representation]]
 
 ### ANN Indexing & Quantization
-[[HNSW]] · [[IVF]] · [[ACORN-1]] · [[Vector Filtering]] · [[Wormhole Vectors]] · [[Vector Quantization]] · [[Scalar Quantization]] · [[Binary Quantization]] · [[BBQ]] · [[RaBitQ]] · [[TurboQuant]] · [[Token Pooling]]
+[[Approximate Nearest Neighbor Search|ANN]] · [[HNSW]] · [[IVF]] · [[LSH]] · [[ACORN-1]] · [[Vector Filtering]] · [[Wormhole Vectors]] · [[Vector Quantization]] · [[Scalar Quantization]] · [[Binary Quantization]] · [[BBQ]] · [[RaBitQ]] · [[TurboQuant]] · [[Token Pooling]]
 
 ### Dimensionality Reduction
 [[Dimensionality Reduction]] · [[PCA]] · [[UMAP]] · [[t-SNE]]
@@ -89,7 +89,7 @@ A map of every note in the vault organized by category and theme.  This index tr
 ## Tools
 
 ### Search & Vector Engines
-[[Elasticsearch]] · [[OpenSearch]] · [[Solr]] · [[Milvus Vector DB]] · [[Pinecone Vector DB]] · [[Qdrant Vector DB]] · [[Weaviate Vector DB]] · [[PostgreSQL]] · [[ParadeDB]] · [[VectorChord]]
+[[Elasticsearch]] · [[OpenSearch]] · [[Solr]] · [[FAISS]] · [[Milvus Vector DB]] · [[Pinecone Vector DB]] · [[Qdrant Vector DB]] · [[Weaviate Vector DB]] · [[PostgreSQL]] · [[ParadeDB]] · [[VectorChord]]
 
 ### PostgreSQL Extensions
 [[pgvector]] · [[pgvectorscale]] · [[pg_textsearch]] · [[pg_trgm]] · [[psql_bm25s]]
@@ -119,6 +119,8 @@ A map of every note in the vault organized by category and theme.  This index tr
 Conference talks and recorded presentations.
 
 [[Max Irwin - The Search Engine Migration Circus]] — [[Max Irwin]], [[OpenSource Connections]]; Haystack Live talk on search-engine migration (playbook, "Hello Search", feature parity, the "damage" metric, war stories)
+
+[[Choosing Indexes for Similarity Search (Faiss in Python)]] — [[James Briggs]], [[Pinecone]]; hands-on [[FAISS]] tutorial comparing Flat, [[LSH]], [[HNSW]], and [[IVF]] on Sift1M
 
 ---
 

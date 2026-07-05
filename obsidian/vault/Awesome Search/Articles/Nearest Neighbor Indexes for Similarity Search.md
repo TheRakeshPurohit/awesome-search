@@ -104,6 +104,7 @@ HNSW with efSearch=64 typically achieves Recall@10 > 0.99 at good throughput.
 
 ## Related Articles
 
+- [[Choosing Indexes for Similarity Search (Faiss in Python)]] — the video companion to this article (same author, same indexes)
 - [[The Missing WHERE Clause in Vector Search]] — same author, filtering
 - [[SPLADE for Sparse Vector Search Explained]] — same author, sparse complement
 - [[Matryoshka Embeddings - Faster OpenAI Vector Search]] — dimension reduction for speed

@@ -15,6 +15,7 @@ The software landscape for building and evaluating search — engines, vector da
 - [[OpenSearch]]
 
 ## Vector databases
+- [[FAISS]] — library (not a DB): reference ANN index implementations
 - [[Milvus Vector DB]]
 - [[Pinecone Vector DB]]
 - [[Qdrant Vector DB]]
