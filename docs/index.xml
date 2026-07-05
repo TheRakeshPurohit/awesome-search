@@ -10,7 +10,49 @@
     <link>https://frutik.github.io/awesome-search/People/Doug-Turnbull</link>
     <guid>https://frutik.github.io/awesome-search/People/Doug-Turnbull</guid>
     <description><![CDATA[ Doug Turnbull Co-founder of OpenSource Connections (OSC); co-author of Relevant Search (O’Reilly). ]]></description>
-    <pubDate>Fri, 03 Jul 2026 09:06:49 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 09:21:54 GMT</pubDate>
+  </item><item>
+    <title>The Search Engine Migration Circus</title>
+    <link>https://frutik.github.io/awesome-search/Videos/Max-Irwin---The-Search-Engine-Migration-Circus</link>
+    <guid>https://frutik.github.io/awesome-search/Videos/Max-Irwin---The-Search-Engine-Migration-Circus</guid>
+    <description><![CDATA[ The Search Engine Migration Circus 📺 Watch: www.youtube.com/watch (Haystack Live playlist) Haystack Live talk by Max Irwin (OpenSource Connections), drawn from his search migration experience at Wolters Kluwer (MediRegs division and the Search Center of Excellence). ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:12:23 GMT</pubDate>
+  </item><item>
+    <title>Videos</title>
+    <link>https://frutik.github.io/awesome-search/Videos</link>
+    <guid>https://frutik.github.io/awesome-search/Videos</guid>
+    <description><![CDATA[ Videos Conference talks and recorded presentations on search &amp; information retrieval — the practitioner knowledge that lives in slides and hallway war stories rather than papers. ]]></description>
+    <pubDate>Sat, 04 Jul 2026 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>All about Information Retrieval &amp; Search</title>
+    <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
+    <guid>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</guid>
+    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
+  </item><item>
+    <title>NDCG (Normalized Discounted Cumulative Gain)</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/NDCG</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/NDCG</guid>
+    <description><![CDATA[ NDCG (Normalized Discounted Cumulative Gain) Definition NDCG is the most widely used ranking quality metric in information retrieval. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
+  </item><item>
+    <title>History</title>
+    <link>https://frutik.github.io/awesome-search/History</link>
+    <guid>https://frutik.github.io/awesome-search/History</guid>
+    <description><![CDATA[ Awesome Search — Note History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
+  </item><item>
+    <title>Index</title>
+    <link>https://frutik.github.io/awesome-search/Index</link>
+    <guid>https://frutik.github.io/awesome-search/Index</guid>
+    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
+  </item><item>
+    <title>global_toc</title>
+    <link>https://frutik.github.io/awesome-search/global_toc</link>
+    <guid>https://frutik.github.io/awesome-search/global_toc</guid>
+    <description><![CDATA[ Global Table of Contents A map of every note in the vault organized by category and theme. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 09:07:24 GMT</pubDate>
   </item><item>
     <title>Vespa</title>
     <link>https://frutik.github.io/awesome-search/Companies/Vespa</link>
@@ -18,53 +60,11 @@
     <description><![CDATA[ Vespa What They Build Vespa is an open-source big data serving engine originally developed by Yahoo and now maintained as an independent open-source project (vespa.ai). ]]></description>
     <pubDate>Fri, 03 Jul 2026 08:46:00 GMT</pubDate>
   </item><item>
-    <title>History</title>
-    <link>https://frutik.github.io/awesome-search/History</link>
-    <guid>https://frutik.github.io/awesome-search/History</guid>
-    <description><![CDATA[ Awesome Search — Note History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:46:00 GMT</pubDate>
-  </item><item>
-    <title>All about Information Retrieval &amp; Search</title>
-    <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
-    <guid>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</guid>
-    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:31:47 GMT</pubDate>
-  </item><item>
     <title>Sease</title>
     <link>https://frutik.github.io/awesome-search/Companies/Sease</link>
     <guid>https://frutik.github.io/awesome-search/Companies/Sease</guid>
     <description><![CDATA[ Sease About Italian search engineering and consulting company specializing in Apache Solr, Elasticsearch, and neural information retrieval. ]]></description>
     <pubDate>Fri, 03 Jul 2026 08:31:47 GMT</pubDate>
-  </item><item>
-    <title>Search Evaluation</title>
-    <link>https://frutik.github.io/awesome-search/Concepts/Search-Evaluation</link>
-    <guid>https://frutik.github.io/awesome-search/Concepts/Search-Evaluation</guid>
-    <description><![CDATA[ Search Evaluation Definition Search evaluation is the systematic process of measuring how well a search system serves user information needs. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:31:47 GMT</pubDate>
-  </item><item>
-    <title>Index</title>
-    <link>https://frutik.github.io/awesome-search/Index</link>
-    <guid>https://frutik.github.io/awesome-search/Index</guid>
-    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:31:47 GMT</pubDate>
-  </item><item>
-    <title>Relevance Program Setup</title>
-    <link>https://frutik.github.io/awesome-search/Topics/Relevance-Program-Setup</link>
-    <guid>https://frutik.github.io/awesome-search/Topics/Relevance-Program-Setup</guid>
-    <description><![CDATA[ Relevance Program Setup A relevance program is the organizational and operational infrastructure that makes search quality measurable, reproducible, and improvable over time. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:31:47 GMT</pubDate>
-  </item><item>
-    <title>global_toc</title>
-    <link>https://frutik.github.io/awesome-search/global_toc</link>
-    <guid>https://frutik.github.io/awesome-search/global_toc</guid>
-    <description><![CDATA[ Global Table of Contents A map of every note in the vault organized by category and theme. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 08:31:47 GMT</pubDate>
-  </item><item>
-    <title>How to Securely Hook Up Quepid to Vespa</title>
-    <link>https://frutik.github.io/awesome-search/Articles/How-to-Securely-Hook-Up-Quepid-to-Vespa</link>
-    <guid>https://frutik.github.io/awesome-search/Articles/How-to-Securely-Hook-Up-Quepid-to-Vespa</guid>
-    <description><![CDATA[ A proof-of-concept for wiring the Quepid relevance workbench to a Vespa Cloud application using read-only token authentication, a Custom Search API endpoint, and JavaScript result mappers — filling Vespa's gap in interactive offline relevance testing. ]]></description>
-    <pubDate>Thu, 02 Jul 2026 22:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

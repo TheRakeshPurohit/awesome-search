@@ -109,3 +109,4 @@ A distinct pathway: usually **augmenting** lexical search with semantic retrieva
 - [[Elasticsearch vs OpenSearch]] — the most common fork-vs-original decision
 - [[Search Architecture]] — what changes structurally across engines
 - [[Solr]] · [[Elasticsearch]] · [[OpenSearch]] · [[Vespa]] · [[Qdrant Vector DB]] · [[Weaviate Vector DB]] · [[Milvus Vector DB]] · [[pgvector]] — the engines involved
+- [[Max Irwin - The Search Engine Migration Circus]] — Haystack Live talk; migration playbook, "Hello Search", feature parity, the "damage" metric, and war stories

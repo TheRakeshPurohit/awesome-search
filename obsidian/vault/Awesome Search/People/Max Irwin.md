@@ -34,6 +34,9 @@ Search engineer at OpenSource Connections (OSC), focused on applying neural/BERT
 - [[Unified Search Index]]
 - [[Denormalization for Search]]
 
+## Talks & Videos
+- [[Max Irwin - The Search Engine Migration Circus]] — Haystack Live; search-engine migration playbook and war stories
+
 ## Affiliations
 - OpenSource Connections (OSC) — same org as [[Doug Turnbull]]
 - [[Bonsai]] — author on the Bonsai engineering blog (search-over-database tutorial)

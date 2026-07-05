@@ -73,6 +73,12 @@ Practice-oriented guides — how to DO or deal with something in search.
 
 [[Uber Eats - Scaling Search for Food Delivery]] · [[Airbnb - ML-Powered Experiences Ranking]] · [[Zalando - Self-DoS via Facet Aggregation]] · [[Slack - Enterprise Message Search with LTR]] · [[Etsy - Search Quality and Query Understanding]] · [[Skyscanner - Learning to Rank for Flights]] · [[Netflix - Content Search Architecture]] · [[Canva - Search Pipeline Modernization]] · [[Reddit - Vector Database Selection]] · [[Vinted - Migrating Search from Elasticsearch to Vespa]]
 
+## Videos
+
+Conference talks and recorded presentations.
+
+[[Max Irwin - The Search Engine Migration Circus]] — Haystack Live; search-engine migration playbook, "Hello Search", feature parity, the "damage" metric & war stories
+
 ## Key People
 
 [[Daniel Tunkelang]] · [[Doug Turnbull]] · [[James Rubinstein]] · [[Omar Khattab]] · [[Jo Kristian Bergum]] · [[Trey Grainger]] · [[Andreas Wagner]] · [[Giovanni Fernandez-Kincade]] · [[Wolf Garbe]] · [[Eugene Yan]] · [[Atita Arora]] · [[Udi Manber]] · [[Andrew Kornilov]]

@@ -5,7 +5,7 @@ A map of every note in the vault organized by category and theme.  This index tr
 ## Maps of Content
 
 - [[All about Information Retrieval & Search]] — top-level overview
-- [[Concepts]] · [[Topics]] · [[People]] · [[Tools]] · [[Case Studies]] · [[History]] · [[Index]]
+- [[Concepts]] · [[Topics]] · [[People]] · [[Tools]] · [[Case Studies]] · [[Videos]] · [[History]] · [[Index]]
 
 ---
 
@@ -112,6 +112,13 @@ A map of every note in the vault organized by category and theme.  This index tr
 
 ## Case Studies
 [[Airbnb - ML-Powered Experiences Ranking]] · [[Bonsai - Designing Search for a Relational Database]] · [[Canva - Search Pipeline Modernization]] · [[Etsy - Search Quality and Query Understanding]] · [[Kleinanzeigen - Vespa Migration for Homepage Feed]] · [[Netflix - Content Search Architecture]] · [[Reddit - Vector Database Selection]] · [[Skyscanner - Learning to Rank for Flights]] · [[Slack - Enterprise Message Search with LTR]] · [[Uber Eats - Scaling Search for Food Delivery]] · [[Vinted - Migrating Search from Elasticsearch to Vespa]] · [[Zalando - Self-DoS via Facet Aggregation]]
+
+---
+
+## Videos
+Conference talks and recorded presentations.
+
+[[Max Irwin - The Search Engine Migration Circus]] — [[Max Irwin]], [[OpenSource Connections]]; Haystack Live talk on search-engine migration (playbook, "Hello Search", feature parity, the "damage" metric, war stories)
 
 ---
 
