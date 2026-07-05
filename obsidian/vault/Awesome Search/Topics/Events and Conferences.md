@@ -49,15 +49,15 @@ Industry and academic events where search, information retrieval, NLP, and AI ar
 
 ## Practitioner Events
 
-### Haystack
-Open-source search conference (Solr, Elasticsearch, OpenSearch). Practitioner-focused. [[Doug Turnbull]] and the OpenSource Connections community are closely associated with it.
+### Haystack ([[Haystack US]] · [[Haystack EU]])
+The search *relevance* conference run by [[OpenSource Connections]], in two editions — [[Haystack US]] (Charlottesville, VA) and [[Haystack EU]] (Europe). Practitioner-focused (Solr, Elasticsearch, OpenSearch). [[Doug Turnbull]] and the OpenSource Connections community are closely associated with it.
 
 🔗 https://haystackconf.com/
 
 Notable vault connections:
 - [[What Is a Judgment List?]] references a Haystack talk on human rater complexity
 
-### Berlin Buzzwords
+### [[Berlin Buzzwords]]
 Open-source data and search conference (Berlin). Strong search engineering track.
 
 🔗 https://berlinbuzzwords.de/
@@ -75,8 +75,8 @@ Elasticsearch ecosystem conference. Product announcements and engineering talks.
 
 🔗 https://www.elastic.co/elasticon/
 
-### MICES (Mix-Camp E-Commerce Search)
-Dedicated e-commerce search conference. Close overlap with [[E-commerce Search]].
+### [[MICES]] (Mix-Camp E-Commerce Search)
+Dedicated e-commerce search conference, organized by [[Rene Kriegler]]. Close overlap with [[E-commerce Search]].
 
 🔗 http://www.mices.co/
 
@@ -147,8 +147,8 @@ Core ML conferences. Source of embedding architectures, [[Learning to Rank]] adv
 
 ## Related
 
-- [[E-commerce Search]] — MICES, SIGIR eCommerce
-- [[Search Quality Assurance]] — TREC, Haystack evaluation talks
+- [[E-commerce Search]] — [[MICES]], SIGIR eCommerce
+- [[Search Quality Assurance]] — TREC, [[Haystack US|Haystack]] evaluation talks
 - [[Conversational and Agentic Search]] — emerging topic at SIGIR and NeurIPS
 - [[Books]] — companion reading list
 - [[How to Start a Career in Search]] — where conferences fit in a learning path

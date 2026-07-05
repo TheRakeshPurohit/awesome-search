@@ -1,11 +1,11 @@
 # Global Table of Contents
 
-A map of every note in the vault organized by category and theme.  This index tracks concepts, topics, people, tools, companies, case studies, and datasets.
+A map of every note in the vault organized by category and theme.  This index tracks concepts, topics, people, tools, companies, case studies, conferences, and datasets.
 
 ## Maps of Content
 
 - [[All about Information Retrieval & Search]] — top-level overview
-- [[Concepts]] · [[Topics]] · [[People]] · [[Tools]] · [[Case Studies]] · [[Videos]] · [[History]] · [[Index]]
+- [[Concepts]] · [[Topics]] · [[People]] · [[Tools]] · [[Case Studies]] · [[Videos]] · [[Conferences]] · [[History]] · [[Index]]
 
 ---
 
@@ -122,6 +122,13 @@ Conference talks and recorded presentations.
 
 [[Choosing Indexes for Similarity Search (Faiss in Python)]] — [[James Briggs]], [[Pinecone]]; hands-on [[FAISS]] tutorial comparing Flat, [[LSH]], [[HNSW]], and [[IVF]] on Sift1M
 
+[[Rene Kriegler - Query Relaxation]] — [[Rene Kriegler]], [[OpenSource Connections]]; [[Query Relaxation]] as a query recommendation problem — word-shape heuristics, term frequency, [[Word2Vec]] and a neural network compared for predicting which term to drop
+
+---
+
+## Conferences
+See the [[Conferences]] MOC. [[Berlin Buzzwords]] · [[Haystack EU]] · [[Haystack US]] · [[MICES]]
+
 ---
 
 ## Datasets
@@ -165,7 +172,7 @@ Conference talks and recorded presentations.
 
 **Q** — [[Quynh Nguyen]]
 
-**R** — [[Ravindra Harige]] · [[Ritik Jain]] · [[Roman Grebennikov]] · [[Roshmita Dey]] · [[Rudolf Batt]]
+**R** — [[Ravindra Harige]] · [[Rene Kriegler]] · [[Ritik Jain]] · [[Roman Grebennikov]] · [[Roshmita Dey]] · [[Rudolf Batt]]
 
 **S** — [[Sergey Feldman]] · [[Shaw Talebi]] · [[Shay Banon]] · [[Shib Sankar Dasgupta]] · [[Shun Tsukagoshi]] · [[Siegfried Schüle]] · [[Skip Everling]] · [[Steffen Rendle]] · [[Stuart Cam]] · [[Stéphane Clinchant]] · [[Sujit Pal]]
 

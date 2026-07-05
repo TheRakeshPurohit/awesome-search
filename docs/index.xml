@@ -10,61 +10,61 @@
     <link>https://frutik.github.io/awesome-search/People/Doug-Turnbull</link>
     <guid>https://frutik.github.io/awesome-search/People/Doug-Turnbull</guid>
     <description><![CDATA[ Doug Turnbull Co-founder of OpenSource Connections (OSC); co-author of Relevant Search (O’Reilly). ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:43:08 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 11:12:13 GMT</pubDate>
+  </item><item>
+    <title>Query Relaxation - a rewriting technique between search and recommendations</title>
+    <link>https://frutik.github.io/awesome-search/Videos/Rene-Kriegler---Query-Relaxation</link>
+    <guid>https://frutik.github.io/awesome-search/Videos/Rene-Kriegler---Query-Relaxation</guid>
+    <description><![CDATA[ Query Relaxation - a rewriting technique between search and recommendations 📺 Watch: www.youtube.com/watch Talk by Rene Kriegler (introduced by Charlie Hull, OpenSource Connections), 2019. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 11:03:05 GMT</pubDate>
   </item><item>
     <title>Approximate Nearest Neighbor Search</title>
     <link>https://frutik.github.io/awesome-search/Concepts/Approximate-Nearest-Neighbor-Search</link>
     <guid>https://frutik.github.io/awesome-search/Concepts/Approximate-Nearest-Neighbor-Search</guid>
     <description><![CDATA[ Approximate Nearest Neighbor Search (ANN) Approximate Nearest Neighbor (ANN) search finds vectors close to a query vector without comparing against every vector in the dataset. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:37:34 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
+  </item><item>
+    <title>HNSW</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/HNSW</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/HNSW</guid>
+    <description><![CDATA[ HNSW — Hierarchical Navigable Small World Graph-based approximate nearest neighbor (ANN) index. Malkov &amp; Yashunin, 2018 (arXiv:1603.09320). ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
+  </item><item>
+    <title>IVF</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/IVF</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/IVF</guid>
+    <description><![CDATA[ IVF — Inverted File Index (Vectors) Cluster-based approximate nearest neighbor (ANN) index. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
   </item><item>
     <title>LSH</title>
     <link>https://frutik.github.io/awesome-search/Concepts/LSH</link>
     <guid>https://frutik.github.io/awesome-search/Concepts/LSH</guid>
     <description><![CDATA[ LSH — Locality Sensitive Hashing Locality Sensitive Hashing is an ANN method that hashes vectors so that similar vectors collide into the same bucket. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:35:30 GMT</pubDate>
-  </item><item>
-    <title>FAISS</title>
-    <link>https://frutik.github.io/awesome-search/Tools/FAISS</link>
-    <guid>https://frutik.github.io/awesome-search/Tools/FAISS</guid>
-    <description><![CDATA[ FAISS FAISS (Facebook AI Similarity Search) is Meta’s open-source C++/Python library for efficient similarity search and clustering of dense vectors. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:35:20 GMT</pubDate>
-  </item><item>
-    <title>All about Information Retrieval &amp; Search</title>
-    <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
-    <guid>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</guid>
-    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
   </item><item>
     <title>History</title>
     <link>https://frutik.github.io/awesome-search/History</link>
     <guid>https://frutik.github.io/awesome-search/History</guid>
     <description><![CDATA[ Awesome Search — Note History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
   </item><item>
-    <title>Index</title>
-    <link>https://frutik.github.io/awesome-search/Index</link>
-    <guid>https://frutik.github.io/awesome-search/Index</guid>
-    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
+    <title>James Briggs</title>
+    <link>https://frutik.github.io/awesome-search/People/James-Briggs</link>
+    <guid>https://frutik.github.io/awesome-search/People/James-Briggs</guid>
+    <description><![CDATA[ James Briggs Background James Briggs is a technical writer and developer advocate at Pinecone, known for practical, implementation-focused articles on vector search, SPLADE, and metadata filtering. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
   </item><item>
-    <title>The Search Engine Migration Circus</title>
-    <link>https://frutik.github.io/awesome-search/Videos/Max-Irwin---The-Search-Engine-Migration-Circus</link>
-    <guid>https://frutik.github.io/awesome-search/Videos/Max-Irwin---The-Search-Engine-Migration-Circus</guid>
-    <description><![CDATA[ The Search Engine Migration Circus 📺 Watch: www.youtube.com/watch (Haystack Live playlist) Haystack Live talk by Max Irwin (OpenSource Connections), drawn from his search migration experience at Wolters Kluwer (MediRegs division and the Search Center of Excellence). ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
+    <title>FAISS</title>
+    <link>https://frutik.github.io/awesome-search/Tools/FAISS</link>
+    <guid>https://frutik.github.io/awesome-search/Tools/FAISS</guid>
+    <description><![CDATA[ FAISS FAISS (Facebook AI Similarity Search) is Meta’s open-source C++/Python library for efficient similarity search and clustering of dense vectors. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
   </item><item>
     <title>global_toc</title>
     <link>https://frutik.github.io/awesome-search/global_toc</link>
     <guid>https://frutik.github.io/awesome-search/global_toc</guid>
     <description><![CDATA[ Global Table of Contents A map of every note in the vault organized by category and theme. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:22:30 GMT</pubDate>
-  </item><item>
-    <title>Videos</title>
-    <link>https://frutik.github.io/awesome-search/Videos</link>
-    <guid>https://frutik.github.io/awesome-search/Videos</guid>
-    <description><![CDATA[ Videos Conference talks and recorded presentations on search &amp; information retrieval — the practitioner knowledge that lives in slides and hallway war stories rather than papers. ]]></description>
-    <pubDate>Sat, 04 Jul 2026 22:00:00 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
   </item>
     </channel>
   </rss>

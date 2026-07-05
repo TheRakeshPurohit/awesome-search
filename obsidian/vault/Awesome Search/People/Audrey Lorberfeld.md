@@ -21,4 +21,4 @@ A **librarian-turned-software engineer** working in search and information retri
 
 ## Related
 - [[Women of Search]] — community she founded
-- [[Events and Conferences]] — speaks at Haystack
+- [[Events and Conferences]] — speaks at [[Haystack US|Haystack]]

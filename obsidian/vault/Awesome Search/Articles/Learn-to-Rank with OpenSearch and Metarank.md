@@ -44,7 +44,7 @@ OpenSearch `script_score` can fold metadata/behavior into scoring (e.g. `click_c
 
 ## Secondary / multi-level re-ranking
 
-Split retrieval and re-ranking into independent stages (the multi-stage pattern Amazon uses, per Berlin Buzzwords 2019):
+Split retrieval and re-ranking into independent stages (the multi-stage pattern Amazon uses, per [[Berlin Buzzwords]] 2019):
 
 - **First level** — index retrieves the full matching set.
 - **Second level** — fast rankers like BM25 reduce to top-N (recall-focused).

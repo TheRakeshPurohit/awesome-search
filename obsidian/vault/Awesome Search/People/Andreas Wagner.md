@@ -39,7 +39,7 @@ Each pillar requires different optimization strategies and different metrics —
 
 ## Topics
 
-- [[Search Result Diversity]] — MICES talk on result positioning and basket composition; Discovery pillar framework
+- [[Search Result Diversity]] — [[MICES]] talk on result positioning and basket composition; Discovery pillar framework
 
 ## Affiliation
 

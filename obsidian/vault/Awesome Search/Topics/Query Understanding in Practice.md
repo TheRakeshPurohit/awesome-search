@@ -94,6 +94,8 @@ When retrieval returns too few results, progressively relax constraints:
 3. Expand to parent category
 4. Fall back to semantic search
 
+See [[Query Relaxation]] and the talk [[Rene Kriegler - Query Relaxation]], which reframes relaxation as a *query recommendation* problem and compares heuristic, term-frequency, [[Word2Vec]] and neural approaches to predicting which term to drop.
+
 ---
 
 ## LLMs in Query Understanding

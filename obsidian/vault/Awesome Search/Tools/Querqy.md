@@ -18,7 +18,7 @@ Open-source query rewriting library for Elasticsearch, OpenSearch, and Solr. Pro
 
 ## Overview
 
-Querqy separates query rewriting rules from search engine configuration, making them manageable, testable, and version-controlled. It is the foundation for the [Chorus](https://github.com/querqy/chorus) e-commerce search reference stack and the [SMUI](https://github.com/querqy/smui) rules management UI.
+Maintained by [[Rene Kriegler]]. Querqy separates query rewriting rules from search engine configuration, making them manageable, testable, and version-controlled. It is the foundation for the [Chorus](https://github.com/querqy/chorus) e-commerce search reference stack and the [SMUI](https://github.com/querqy/smui) rules management UI.
 
 - Website: https://querqy.org/
 - GitHub: https://github.com/querqy/querqy
@@ -43,5 +43,6 @@ Querqy separates query rewriting rules from search engine configuration, making 
 - [[Results Boosting]] — per-query boost rules
 
 ## Related Articles
+- [[Rene Kriegler - Query Relaxation]] — talk by [[Rene Kriegler]], Querqy's maintainer
 - [[Getting Started on Search Relevance for the Understaffed Search Team]]
 - [[Real Talk About Synonyms and Search]]

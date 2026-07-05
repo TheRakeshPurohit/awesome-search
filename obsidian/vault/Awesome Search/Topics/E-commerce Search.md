@@ -132,3 +132,4 @@ Start at Level 1. Only move up if A/B test shows improvement.
 - [[Synonyms and Vocabulary Management]] — vocabulary gap solutions
 - [[Results Merchandising]] — business rules layer above relevance
 - [[Personalization in Search]] — user-specific ranking
+- [[Rene Kriegler - Query Relaxation]] — talk on handling zero-result e-commerce queries via ML-driven [[Query Relaxation]]

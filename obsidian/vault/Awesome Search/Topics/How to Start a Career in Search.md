@@ -118,7 +118,7 @@ Search has a small, unusually open community. Following the right people gives y
 - [[Daniel Tunkelang]] — canonical writing on relevance, query understanding, and search teams
 - [[Doug Turnbull]] — *Relevant Search* author, relevance methodology, prolific blogger
 - [[Trey Grainger]] — *AI-Powered Search* author, neural/semantic search
-- [[Charlie Hull]] — vendor-neutral strategy, Haystack organizer, community builder
+- [[Charlie Hull]] — vendor-neutral strategy, [[Haystack US|Haystack]] organizer, community builder
 - [[Jo Kristian Bergum]] — deep, practical retrieval and ranking writing (co-founder of [[Hornet]]; formerly [[Vespa]])
 - [[James Rubinstein]] — search evaluation and metrics
 - [[Giovanni Fernandez-Kincade]] · [[Atita Arora]] · [[Nikhil Dandekar]] · [[Eugene Yan]] — applied search & ML
@@ -188,14 +188,14 @@ Pair any course with a small project (see [the tools step](#8-explore-the-tools)
 Conferences are where you meet the community and see the current state of the art. Full guide: [[Events and Conferences]].
 
 **Best for someone starting out (practitioner-focused):**
-- **Haystack** — the open-source search relevance conference; the most welcoming entry point
-- **Berlin Buzzwords** — strong open-source search engineering track
-- **MICES** — dedicated e-commerce search
+- **[[Haystack US|Haystack]]** — the open-source search relevance conference; the most welcoming entry point
+- **[[Berlin Buzzwords]]** — strong open-source search engineering track
+- **[[MICES]]** — dedicated e-commerce search
 - **Activate** · **Elastic{ON}** — vendor ecosystems
 
 **Academic (for depth / research roles):** SIGIR, ECIR, TREC, WSDM, CIKM.
 
-You don't have to travel — many talks are posted free on YouTube, and there are active Slack/meetup communities (London Search & AI Meetup, Relevance Slack). Watching last year's Haystack talks is a free crash course.
+You don't have to travel — many talks are posted free on YouTube, and there are active Slack/meetup communities (London Search & AI Meetup, Relevance Slack). Watching last year's [[Haystack US|Haystack]] talks is a free crash course.
 
 ---
 

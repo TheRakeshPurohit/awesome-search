@@ -25,7 +25,7 @@ The **people networks** of the search and information-retrieval world: identity-
 ## Identity & Mentorship Communities
 
 ### [[Women of Search]]
-International community empowering and celebrating women in search. Founded May 2021 by **[[Audrey Lorberfeld]]**. Runs a mentorship program, a blog/resources, and presents technical talks at conferences (notably Haystack US/EU).
+International community empowering and celebrating women in search. Founded May 2021 by **[[Audrey Lorberfeld]]**. Runs a mentorship program, a blog/resources, and presents technical talks at conferences (notably [[Haystack US]]/[[Haystack EU]]).
 
 🔗 https://www.women-of-search.org/
 
@@ -40,7 +40,7 @@ In-person meetup organized by **[[Charlie Hull]]** / [[The Search Juggler]]. A c
 OpenSource Connections-run Slack community for search relevance practitioners — one of the most active online hubs for the field.
 
 ### OpenSource Connections Community
-The community around OpenSource Connections (OSC), closely tied to the open-source search ecosystem and the Haystack conference.
+The community around OpenSource Connections (OSC), closely tied to the open-source search ecosystem and the [[Haystack US|Haystack]] conference.
 
 ---
 
@@ -58,7 +58,7 @@ Search is a small, specialized field. Communities are where practitioners:
 ## Related Topics
 
 - [[Women of Search]] — featured community
-- [[Events and Conferences]] — where communities convene (Haystack, Berlin Buzzwords, MICES)
+- [[Events and Conferences]] — where communities convene ([[Haystack US|Haystack]], [[Berlin Buzzwords]], [[MICES]])
 - [[How to Start a Career in Search]] — communities as an entry path
 - [[Hiring for Search]] — community as a talent pipeline
 - [[Search Consultancy]] — overlapping practitioner network

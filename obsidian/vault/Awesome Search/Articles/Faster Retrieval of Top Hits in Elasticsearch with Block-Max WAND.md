@@ -29,7 +29,7 @@ company:
 
 ## Background: MAXSCORE to WAND
 
-**MAXSCORE** (H. Turtle & J. Flood, 1995) was presented by Stefan Pohl at Berlin Buzzwords 2012. It splits query terms into two sets: *essential* (find candidates) and *non-essential* (only used for scoring). As the minimum competitive score rises, low-max-score terms move from essential to non-essential, reducing the document space to search.
+**MAXSCORE** (H. Turtle & J. Flood, 1995) was presented by Stefan Pohl at [[Berlin Buzzwords]] 2012. It splits query terms into two sets: *essential* (find candidates) and *non-essential* (only used for scoring). As the minimum competitive score rises, low-max-score terms move from essential to non-essential, reducing the document space to search.
 
 Stefan opened a Lucene JIRA ticket with a prototype. The main challenge: computing per-term max scores on dynamic (non-static) indexes requires rewriting segments on every new document. This blocked integration for **5 years**.
 

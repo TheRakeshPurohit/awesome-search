@@ -79,6 +79,8 @@ Conference talks and recorded presentations.
 
 [[Max Irwin - The Search Engine Migration Circus]] — Haystack Live; search-engine migration playbook, "Hello Search", feature parity, the "damage" metric & war stories
 
+[[Rene Kriegler - Query Relaxation]] — OpenSource Connections; query relaxation as a recommendation problem, comparing heuristic, term-frequency, word2vec and neural approaches to predicting which query term to drop
+
 ## Key People
 
 [[Daniel Tunkelang]] · [[Doug Turnbull]] · [[James Rubinstein]] · [[Omar Khattab]] · [[Jo Kristian Bergum]] · [[Trey Grainger]] · [[Andreas Wagner]] · [[Giovanni Fernandez-Kincade]] · [[Wolf Garbe]] · [[Eugene Yan]] · [[Atita Arora]] · [[Udi Manber]] · [[Andrew Kornilov]]

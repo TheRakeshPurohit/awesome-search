@@ -19,7 +19,7 @@ Solo search consultancy run by [[Charlie Hull]]. Vendor-neutral, independent adv
 - **Search Strategy & Audit** — diagnose poor relevance, identify blind spots, recommend process improvements, advise on team building and measurement
 - **Search Engine Consulting** — hourly or daily guidance: technology selection, relevance fundamentals training, team development, cross-org advisory
 - **Market Positioning** — helps search/AI product companies understand their sector, refine messaging, and raise community visibility
-- **Event Expertise** — conference design and organization; keynote speaking; runs Haystack conference and London Search & AI Meetup
+- **Event Expertise** — conference design and organization; keynote speaking; runs the Haystack ([[Haystack EU]] / [[Haystack US]]) conference and London Search & AI Meetup
 
 ## Positioning
 

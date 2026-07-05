@@ -110,3 +110,7 @@ Query relaxation is one class of **query rewriting** — transformations applied
 
 ## People
 - [[Daniel Tunkelang]] — query relaxation as part of the Query Understanding series
+- [[Rene Kriegler]] — reframes relaxation as query *recommendation*; ML term-drop prediction via [[Word2Vec]] + neural net
+
+## Videos
+- [[Rene Kriegler - Query Relaxation]] — [[Rene Kriegler]]; relaxation as a recommendation problem, with word-shape heuristics, term frequency, [[Word2Vec]] and a multi-layer neural network compared for predicting which term to drop

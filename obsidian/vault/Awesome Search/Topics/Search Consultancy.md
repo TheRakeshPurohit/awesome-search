@@ -27,7 +27,7 @@ Search consultancy as a practice — who does it, what they offer, and how to ru
 
 ## Individual Consultants
 
-- [[Charlie Hull]] — 25+ years, vendor-neutral solo practitioner, Haystack organizer
+- [[Charlie Hull]] — 25+ years, vendor-neutral solo practitioner, [[Haystack US|Haystack]] organizer
 - [[Doug Turnbull]] — OSC founder, *Relevant Search* author, relevance methodology
 - [[Giovanni Fernandez-Kincade]] — OSC principal, search relevance
 - [[Nicolò Rinaldi]] — Sease, neural IR and LTR specialist
@@ -89,7 +89,7 @@ Key principle ([[Charlie Hull]]): *"Even the most sophisticated search system wi
 ### Network as Infrastructure
 - Actively maintain a network of specialists to refer work to and receive overflow from
 - Contribute to the community (conferences, Slack groups, open source) — this is pipeline, not altruism
-- Haystack, Berlin Buzzwords, and London Search & AI Meetup are core gathering points
+- [[Haystack US|Haystack]], [[Berlin Buzzwords]], and London Search & AI Meetup are core gathering points
 - The OSC-run Relevance Slack (`#jobs` / `#jobs-eu`) surfaces both contract leads and subcontracting overflow — see [[How to Start a Career in Search]]
 
 ### What Makes a Good Search Consultant

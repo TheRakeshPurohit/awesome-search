@@ -19,11 +19,15 @@ Build a dense but meaningful semantic knowledge graph inside Obsidian. Prefer cr
 ## Vault Structure
 
 - `Awesome Search/Articles/` — one note per processed article
+- `Awesome Search/Videos/` — one note per processed talk/video (type: video); the video/transcript equivalent of an article. Conference talks, tutorials, recorded presentations.
 - `Awesome Search/Concepts/` — technical ideas, methods, algorithms
 - `Awesome Search/Topics/` — broader thematic areas
 - `Awesome Search/People/` — authors, researchers, practitioners
 - `Awesome Search/Companies/` — organisations mentioned
+- `Awesome Search/Tools/` — libraries, platforms, products
+- `Awesome Search/Conferences/` — search/IR/e-commerce conferences and recurring events (type: conference)
 - `Awesome Search/Case Studies/` — real-world implementations
+- `Awesome Search/Datasets/` — benchmark and evaluation datasets
 
 ## Vault Access
 
@@ -35,9 +39,9 @@ After every workflow run (or any operation that modifies `HOME.md`), read the cu
 
 ## Invariant: global_toc.md tracks every non-article note
 
-`global_toc.md` (at the vault root) is a categorized table of contents of **every note except articles** — it indexes Concepts, Topics, People, Tools, Companies, Case Studies, and Datasets, but never notes in `Awesome Search/Articles/`, `Clippings/`, or `raw_articles/`.
+`global_toc.md` (at the vault root) is a categorized table of contents of **every note except articles** — it indexes Concepts, Topics, People, Tools, Companies, Case Studies, Videos, Conferences, and Datasets, but never notes in `Awesome Search/Articles/`, `Clippings/`, or `raw_articles/`. (Videos are the one non-article *source* note type that still gets indexed here — under a dedicated `## Videos` section.)
 
-Whenever a workflow run **creates or renames** a non-article entity note (Concept, Topic, Person, Company, Tool, Case Study, Dataset), add or update its `[[wikilink]]` in `global_toc.md` as part of the same run:
+Whenever a workflow run **creates or renames** a non-article note (Concept, Topic, Person, Company, Tool, Case Study, Video, Conference, Dataset), add or update its `[[wikilink]]` in `global_toc.md` as part of the same run:
 
 - Place each note under its category section, and within Concepts/Topics/Tools under the most fitting thematic sub-heading (create a new sub-heading only if none fits).
 - Keep entries alphabetical within a group; People are grouped by the first letter of the name.
@@ -97,7 +101,9 @@ Rules:
 - Prefer separate notes over incorrect merges.
 
 ### 5. Create or update entity notes
-Auto-create/update: Article notes, Concept notes, Person notes, Company notes, Tool notes.
+Auto-create/update: Article notes, Video notes, Concept notes, Person notes, Company notes, Tool notes, Conference notes, Case Study notes.
+
+When processing a talk/video (a YouTube URL or transcript), save the source note to `Awesome Search/Videos/<Title>.md` with `type: video` rather than `Awesome Search/Articles/` — otherwise it follows the same workflow as an article. Conferences and recurring events mentioned in the source get their own `Awesome Search/Conferences/<Name>.md` note with `type: conference`.
 
 ### 6. Add Obsidian wikilinks
 Connect: articles ↔ concepts ↔ people ↔ companies ↔ topics
@@ -184,8 +190,10 @@ Use Obsidian-compatible Markdown. Preserve source URLs in frontmatter (`source:`
 | Entity type | Key frontmatter fields |
 |---|---|
 | Article | `type: article`, `source:`, `author:`, `published:`, `concepts:`, `topics:`, `paywall: true` (only when paywalled) |
+| Video | `type: video`, `title:`, `speaker:` (wikilink), `company:` (wikilink), `url:`, `published:`, `topics:`, `concepts:`, `tools:`, `people:` |
 | Concept | `type: concept`, `aliases:`, `tags:` |
 | Topic | `type: topic`, `aliases:`, `related_concepts:`, `related_topics:`, `articles:`, `website:` |
 | Person | `type: person`, `aliases:`, `website:` or `blog:`, `affiliation:` |
 | Company | `type: company`, `website:` |
 | Tool | `type: tool`, `website:`, `repo:` |
+| Conference | `type: conference`, `aliases:`, `website:`, `organizer:` (wikilink) |

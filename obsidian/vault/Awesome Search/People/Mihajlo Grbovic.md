@@ -23,6 +23,10 @@ ML/Research Scientist at **Airbnb**. Led two major search ranking initiatives: l
 - Real-time personalization features EmbClickSim and EmbSkipSim in main LTR model
 - Business rules via training data weighting (no separate rules engine)
 
+## Videos
+
+- [[Rene Kriegler - Query Relaxation]] — Kriegler applies the query-as-word (query embedding) idea from Grbovic et al. to query relaxation
+
 ## Related
 
 - [[Airbnb]] · [[Learning to Rank]] · [[Personalization]] · [[Embedding Fine-tuning]] · [[Dense Vector Retrieval]]

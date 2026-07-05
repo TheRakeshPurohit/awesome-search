@@ -32,6 +32,9 @@ Principal engineer and search expert; author of the [Query Understanding](https:
 - [[Thoughts about Managing Search Teams]]
 - [[Putting Search Ranking in Perspective]]
 
+## Referenced In
+- [[Rene Kriegler - Query Relaxation]] — Kriegler's word-embedding relaxation approach was prompted by a Tunkelang blog post on query relaxation
+
 ## Key Concepts
 - [[Search Evaluation]]
 - [[Diversity Metrics]]

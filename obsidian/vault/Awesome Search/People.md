@@ -62,7 +62,7 @@ The practitioners, researchers, and educators who shape the search and IR field.
 - [[Quynh Nguyen]]
 
 ## R
-- [[Ravindra Harige]] · [[Ritik Jain]] · [[Roman Grebennikov]] · [[Roshmita Dey]] · [[Rudolf Batt]]
+- [[Ravindra Harige]] · [[Rene Kriegler]] · [[Ritik Jain]] · [[Roman Grebennikov]] · [[Roshmita Dey]] · [[Rudolf Batt]]
 
 ## S
 - [[Sergey Feldman]] · [[Shaw Talebi]] · [[Shay Banon]] · [[Siegfried Schüle]] · [[Skip Everling]] · [[Stuart Cam]] · [[Stéphane Clinchant]] · [[Sujit Pal]]

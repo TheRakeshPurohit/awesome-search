@@ -90,7 +90,7 @@ Women of Search is a key **community / careers** node in the search ecosystem �
 
 ## Related Topics
 
-- [[Events and Conferences]] — where WoS members present (Haystack US/EU)
+- [[Events and Conferences]] — where WoS members present ([[Haystack US]]/[[Haystack EU]])
 - [[How to Start a Career in Search]] — mentorship and community as an entry path
 - [[Hiring for Search]] — talent pipeline and community
 - [[Search Consultancy]] — adjacent practitioner network

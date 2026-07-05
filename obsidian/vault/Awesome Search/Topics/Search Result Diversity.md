@@ -123,7 +123,7 @@ Broad-query diversification is "pre-emptive faceting" — the system makes the i
 ## Key People
 
 - **[[Daniel Tunkelang]]** — Searching for Goldilocks (Wundt Curve, λ-MMR), Thoughts on Search Result Diversity (KL-divergence, greedy reranking)
-- **[[Andreas Wagner]]** — Three Pillars framework (Discovery pillar); MICES talk on diverse result sets showing how result positioning shapes user basket composition
+- **[[Andreas Wagner]]** — Three Pillars framework (Discovery pillar); [[MICES]] talk on diverse result sets showing how result positioning shapes user basket composition
 
 ---
 
