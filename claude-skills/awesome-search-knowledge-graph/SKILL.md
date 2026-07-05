@@ -119,7 +119,23 @@ Include "Related Notes" sections only for strongly related concepts/entities.
 ### 10. Authorship rule
 Do NOT assume someone invented something unless explicitly stated.
 
-### 11. Preserve external URLs
+### 11. Grounding (mandatory, invisible)
+
+The note must be true to its sources — but nothing about grounding appears in
+the note itself. No tags, no labels, no "(source)" markers. Clean prose only.
+
+Before saving, silently check every claim:
+- Specifics — numbers, dates, quotes, author names, affiliations, benchmark
+  results — must come from the article's actual text. Never fill these from memory.
+- "X invented / created / introduced Y" — only if the article says so.
+- A relationship link (`implements`, `compares_to`, `critiques`, "builds on") —
+  only if both the source and the linked note actually support it.
+- Everything else must be either a well-established, uncontroversial fact or
+  clearly written as tentative ("appears to", "likely"). If it's neither, cut it.
+
+Paywalled / thin sources mean MORE caution, not confident gap-filling.
+
+### 12. Preserve external URLs
 Always capture URLs found in source material:
 - **Conferences/events**: official website URL in note body and frontmatter as `website:`
 - **Companies**: official website in frontmatter as `website:`
@@ -127,6 +143,12 @@ Always capture URLs found in source material:
 - **Tools**: repository (GitHub) and/or docs URL in frontmatter as `website:` and `repo:`; also in note body
 - Preserve links to external resources (papers, talks, repos, blog posts) in the relevant entity note — do not discard URLs found in source material.
 - Prefer the most canonical/stable URL (official site > GitHub > Medium profile).
+
+### 13. Review pass
+After writing/enriching notes, spawn the `kg-reviewer` subagent with the list of
+notes just created or modified. Apply its ⚠️ findings (fix grounding, broken
+links, frontmatter), then re-run the index.md / global_toc.md invariants before
+reporting completion.
 
 ## Note Structure
 
