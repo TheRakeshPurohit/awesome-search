@@ -10,7 +10,13 @@
     <link>https://frutik.github.io/awesome-search/People/Doug-Turnbull</link>
     <guid>https://frutik.github.io/awesome-search/People/Doug-Turnbull</guid>
     <description><![CDATA[ Doug Turnbull Co-founder of OpenSource Connections (OSC); currently independent (previously Shopify, then Reddit); co-author of Relevant Search (O’Reilly). ]]></description>
-    <pubDate>Sun, 05 Jul 2026 12:26:56 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 12:31:39 GMT</pubDate>
+  </item><item>
+    <title>History-2</title>
+    <link>https://frutik.github.io/awesome-search/History-2</link>
+    <guid>https://frutik.github.io/awesome-search/History-2</guid>
+    <description><![CDATA[ Awesome Search — Note History (Archive) Older entries, 2026-06-18 and earlier. The 10 most recent days live in History. Newest first. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 12:31:18 GMT</pubDate>
   </item><item>
     <title>All about Information Retrieval &amp; Search</title>
     <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
@@ -27,7 +33,7 @@
     <title>History</title>
     <link>https://frutik.github.io/awesome-search/History</link>
     <guid>https://frutik.github.io/awesome-search/History</guid>
-    <description><![CDATA[ Awesome Search — Note History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
+    <description><![CDATA[ Awesome Search — Notes History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
     <pubDate>Sun, 05 Jul 2026 11:12:51 GMT</pubDate>
   </item><item>
     <title>Index</title>
@@ -58,12 +64,6 @@
     <link>https://frutik.github.io/awesome-search/Concepts/Approximate-Nearest-Neighbor-Search</link>
     <guid>https://frutik.github.io/awesome-search/Concepts/Approximate-Nearest-Neighbor-Search</guid>
     <description><![CDATA[ Approximate Nearest Neighbor Search (ANN) Approximate Nearest Neighbor (ANN) search finds vectors close to a query vector without comparing against every vector in the dataset. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
-  </item><item>
-    <title>HNSW</title>
-    <link>https://frutik.github.io/awesome-search/Concepts/HNSW</link>
-    <guid>https://frutik.github.io/awesome-search/Concepts/HNSW</guid>
-    <description><![CDATA[ HNSW — Hierarchical Navigable Small World Graph-based approximate nearest neighbor (ANN) index. Malkov &amp; Yashunin, 2018 (arXiv:1603.09320). ]]></description>
     <pubDate>Sun, 05 Jul 2026 09:43:43 GMT</pubDate>
   </item>
     </channel>
