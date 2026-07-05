@@ -25,7 +25,7 @@ Search consulting firm and tooling company. Authors of many foundational search 
 
 ## Key People
 
-- [[Doug Turnbull]] — founder/principal, author of "Relevant Search" (O'Reilly), prolific blogger at softwaredoug.com
+- [[Doug Turnbull]] — co-founder (has since left; now independent), author of "Relevant Search" (O'Reilly), prolific blogger at softwaredoug.com
 - [[Giovanni Fernandez-Kincade]] — principal, search relevance consultant
 
 ## Articles

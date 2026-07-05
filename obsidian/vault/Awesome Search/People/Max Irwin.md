@@ -9,7 +9,7 @@ created: 2026-05-15
 
 # Max Irwin
 
-Search engineer at OpenSource Connections (OSC), focused on applying neural/BERT-based approaches to practical search relevance problems.
+Search engineer at [[Bonsai]], focused on applying neural/BERT-based approaches to practical search relevance problems. Formerly at OpenSource Connections (OSC).
 
 ## Known For
 - Early practical analysis of BERT for Elasticsearch search relevance (2019)
@@ -38,5 +38,5 @@ Search engineer at OpenSource Connections (OSC), focused on applying neural/BERT
 - [[Max Irwin - The Search Engine Migration Circus]] — Haystack Live; search-engine migration playbook and war stories
 
 ## Affiliations
-- OpenSource Connections (OSC) — same org as [[Doug Turnbull]]
-- [[Bonsai]] — author on the Bonsai engineering blog (search-over-database tutorial)
+- [[Bonsai]] — current employer; author on the Bonsai engineering blog (search-over-database, autocomplete, and Search Kōans)
+- OpenSource Connections (OSC) — former employer, same org as [[Doug Turnbull]]

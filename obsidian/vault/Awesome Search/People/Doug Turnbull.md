@@ -12,7 +12,7 @@ created: 2026-05-152026-05-15
 
 # Doug Turnbull
 
-Co-founder of OpenSource Connections (OSC); co-author of *Relevant Search* (O'Reilly). Search relevance consultant and practitioner; author of the Softwaredoug blog.
+Co-founder of OpenSource Connections (OSC); currently independent (previously [[Shopify]], then [[Reddit]]); co-author of *Relevant Search* (O'Reilly). Search relevance consultant and practitioner; author of the Softwaredoug blog.
 
 ## Known For
 - *Relevant Search* book (with John Berryman)
@@ -34,7 +34,9 @@ Co-founder of OpenSource Connections (OSC); co-author of *Relevant Search* (O'Re
 
 ## Affiliations
 
-- [[Shopify]] (current)
+- Independent (current)
+- [[Reddit]] (former)
+- [[Shopify]] (former)
 
 ## Teaching
 - [[Courses]] — teaches *Cheat at Search Essentials* (free intro) and co-teaches *AI-Powered Search* with [[Trey Grainger]]
@@ -47,7 +49,7 @@ Co-founder of OpenSource Connections (OSC); co-author of *Relevant Search* (O'Re
 - [[Judgment Lists]]
 
 ## Affiliations
-- OpenSource Connections (OSC) — same org as [[Max Irwin]]
+- OpenSource Connections (OSC) — Doug co-founded it but has since left (later [[Shopify]], now independent); also former org of [[Max Irwin]] (now at [[Bonsai]])
 - [[Can BM25 be a Probability]] — BB25 framework; calibrating BM25 as probability for principled hybrid fusion
 - [[Metadata - The 3rd Kind of Retrieval]] — attribute-based retrieval as a third paradigm beyond lexical + embeddings
 - [[Classic ML to Cope with Dumb LLM Judges]] — combining many dumb LLM judges via decision tree to improve precision
