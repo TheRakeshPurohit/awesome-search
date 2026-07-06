@@ -50,6 +50,7 @@ Hybrid search and federated search share the **results-merging** stage but diffe
 
 ## Related Concepts
 
+- [[Federated vs Unified Search]] — the topic hub comparing query-time federation against the index-time alternative, [[Unified Search Index]]
 - [[Reciprocal Rank Fusion]]
 - [[Hybrid Search]]
 - [[Retrieval Pipeline]]

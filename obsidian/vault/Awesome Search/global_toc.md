@@ -70,7 +70,7 @@ A map of every note in the vault organized by category and theme.  This index tr
 [[Reasoning Reranking]] · [[RL-Trained Search Agents]] · [[Late Interaction in Elasticsearch]] · [[Late Interaction in OpenSearch]] · [[Late Interaction in Qdrant]] · [[Late Interaction in Vespa]] · [[Elasticsearch Learning to Rank]] · [[Vespa Learning to Rank]] · [[Dimensionality Reduction vs Quantization]] · [[Search UX]] · [[Search UX Research]] · [[Search Result Diversity]] · [[Multilingual Search]] · [[Personalization in Search]] · [[Query Understanding in Practice]] · [[Spelling Correction in Search]] · [[Synonyms and Vocabulary Management]] · [[Autocomplete and Autosuggest]] · [[Conversational and Agentic Search]] · [[Interaction Paradigms]]
 
 ### Domains & Platforms
-[[E-commerce Search]] · [[Enterprise Search]] · [[Search using PostgreSQL]] · [[Search Platforms]] · [[Migration between Search Engines]] · [[Elasticsearch vs OpenSearch]]
+[[E-commerce Search]] · [[Enterprise Search]] · [[Search using PostgreSQL]] · [[Search Platforms]] · [[Migration between Search Engines]] · [[Elasticsearch vs OpenSearch]] · [[Federated vs Unified Search]]
 
 ### Quality & Operations
 [[Awesome Search/Topics/A-B Testing for Search|A-B Testing for Search]] · [[Duality in Measuring Search]] · [[NDCG Variants]] · [[Search Quality Assurance]] · [[Relevance Program Setup]] · [[Relevance Evaluation Tools Compared]] · [[Awesome Search/Topics/Search Observability|Search Observability]]

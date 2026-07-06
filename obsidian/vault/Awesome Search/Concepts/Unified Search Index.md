@@ -32,6 +32,7 @@ When making a relational database searchable, the instinct is to mirror the data
 - Denormalization shifts cost to index time and write-side maintenance (resolved values must be re-indexed when the source changes).
 
 ## Related Concepts
+- [[Federated vs Unified Search]] — the topic hub comparing index-time consolidation against the query-time alternative, [[Federated Search]]
 - [[Denormalization for Search]] — the mechanism that makes a unified schema possible
 - [[Full-Text Search]]
 - [[Faceted Search]] — the `type` field is the natural primary facet

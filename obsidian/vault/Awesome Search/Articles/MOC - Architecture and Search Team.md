@@ -18,6 +18,9 @@ Map of content covering search system architecture and the human side of search:
 - **Concept**: [[Search Architecture]] — end-to-end pipeline: ingestion → retrieval → ranking → serving
 - **Concept**: [[Retrieval Pipeline]] — multi-stage retrieve → rerank
 - **Concept**: [[Knowledge Graph Search]] — entity graph + vector integration
+- **Concept**: [[Unified Search Index]] — one index shaped by information needs, not the source schema
+- **Concept**: [[Federated Search]] — query-time fan-out over autonomous sources
+- **Topic**: [[Federated vs Unified Search]] — query-time federation vs index-time consolidation
 
 ### Case Studies
 - [[Canva Search Pipeline Part I]] — motivation: big ball of mud, 20k rps
