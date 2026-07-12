@@ -10,7 +10,43 @@
     <link>https://frutik.github.io/awesome-search/People/Doug-Turnbull</link>
     <guid>https://frutik.github.io/awesome-search/People/Doug-Turnbull</guid>
     <description><![CDATA[ Doug Turnbull Co-founder of OpenSource Connections (OSC); currently independent (previously Shopify, then Reddit); co-author of Relevant Search (O’Reilly). ]]></description>
-    <pubDate>Mon, 06 Jul 2026 05:58:41 GMT</pubDate>
+    <pubDate>Sun, 12 Jul 2026 08:27:22 GMT</pubDate>
+  </item><item>
+    <title>Exploration vs Exploitation</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/Exploration-vs-Exploitation</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/Exploration-vs-Exploitation</guid>
+    <description><![CDATA[ Exploration vs Exploitation The trade-off between showing users what the system currently believes is best (exploitation) and deliberately showing something uncertain to gather signal (exploration). ]]></description>
+    <pubDate>Sat, 11 Jul 2026 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Personalizing search results in real-time (MICES 2019)</title>
+    <link>https://frutik.github.io/awesome-search/Videos/Roman-Grebennikov---Personalizing-Search-Results-in-Real-Time</link>
+    <guid>https://frutik.github.io/awesome-search/Videos/Roman-Grebennikov---Personalizing-Search-Results-in-Real-Time</guid>
+    <description><![CDATA[ Personalizing Search Results in Real-Time (MICES 2019) 📺 Watch: www.youtube.com/watch · 📄 Slides Talk by Roman Grebennikov (Findify) at MICES 2019. ]]></description>
+    <pubDate>Sat, 11 Jul 2026 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>All about Information Retrieval &amp; Search</title>
+    <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
+    <guid>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</guid>
+    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
+    <pubDate>Mon, 06 Jul 2026 05:59:15 GMT</pubDate>
+  </item><item>
+    <title>History</title>
+    <link>https://frutik.github.io/awesome-search/History</link>
+    <guid>https://frutik.github.io/awesome-search/History</guid>
+    <description><![CDATA[ Awesome Search — Notes History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
+    <pubDate>Mon, 06 Jul 2026 05:59:15 GMT</pubDate>
+  </item><item>
+    <title>Index</title>
+    <link>https://frutik.github.io/awesome-search/Index</link>
+    <guid>https://frutik.github.io/awesome-search/Index</guid>
+    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
+    <pubDate>Mon, 06 Jul 2026 05:59:15 GMT</pubDate>
+  </item><item>
+    <title>global_toc</title>
+    <link>https://frutik.github.io/awesome-search/global_toc</link>
+    <guid>https://frutik.github.io/awesome-search/global_toc</guid>
+    <description><![CDATA[ Global Table of Contents A map of every note in the vault organized by category and theme. ]]></description>
+    <pubDate>Mon, 06 Jul 2026 05:59:15 GMT</pubDate>
   </item><item>
     <title>Federated vs Unified Search</title>
     <link>https://frutik.github.io/awesome-search/Topics/Federated-vs-Unified-Search</link>
@@ -24,46 +60,10 @@
     <description><![CDATA[ Awesome Search — Note History (Archive) Older entries, 2026-06-18 and earlier. The 10 most recent days live in History. Newest first. ]]></description>
     <pubDate>Sun, 05 Jul 2026 12:32:20 GMT</pubDate>
   </item><item>
-    <title>History</title>
-    <link>https://frutik.github.io/awesome-search/History</link>
-    <guid>https://frutik.github.io/awesome-search/History</guid>
-    <description><![CDATA[ Awesome Search — Notes History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 12:32:20 GMT</pubDate>
-  </item><item>
-    <title>All about Information Retrieval &amp; Search</title>
-    <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
-    <guid>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</guid>
-    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 11:12:51 GMT</pubDate>
-  </item><item>
     <title>Query Relaxation</title>
     <link>https://frutik.github.io/awesome-search/Concepts/Query-Relaxation</link>
     <guid>https://frutik.github.io/awesome-search/Concepts/Query-Relaxation</guid>
     <description><![CDATA[ Query Relaxation Progressively loosening query constraints when a search returns too few (or zero) results, in order to surface something useful rather than failing the user entirely. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 11:12:51 GMT</pubDate>
-  </item><item>
-    <title>Index</title>
-    <link>https://frutik.github.io/awesome-search/Index</link>
-    <guid>https://frutik.github.io/awesome-search/Index</guid>
-    <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 11:12:51 GMT</pubDate>
-  </item><item>
-    <title>Andreas Wagner</title>
-    <link>https://frutik.github.io/awesome-search/People/Andreas-Wagner</link>
-    <guid>https://frutik.github.io/awesome-search/People/Andreas-Wagner</guid>
-    <description><![CDATA[ Andreas Wagner Background Andreas Wagner is a search expert at SearchHub who authors the “Three Pillars of Search Quality in E-commerce” series. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 11:12:51 GMT</pubDate>
-  </item><item>
-    <title>Query Relaxation - a rewriting technique between search and recommendations</title>
-    <link>https://frutik.github.io/awesome-search/Videos/Rene-Kriegler---Query-Relaxation</link>
-    <guid>https://frutik.github.io/awesome-search/Videos/Rene-Kriegler---Query-Relaxation</guid>
-    <description><![CDATA[ Query Relaxation - a rewriting technique between search and recommendations 📺 Watch: www.youtube.com/watch Talk by Rene Kriegler (introduced by Charlie Hull, OpenSource Connections), 2019. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 11:12:51 GMT</pubDate>
-  </item><item>
-    <title>global_toc</title>
-    <link>https://frutik.github.io/awesome-search/global_toc</link>
-    <guid>https://frutik.github.io/awesome-search/global_toc</guid>
-    <description><![CDATA[ Global Table of Contents A map of every note in the vault organized by category and theme. ]]></description>
     <pubDate>Sun, 05 Jul 2026 11:12:51 GMT</pubDate>
   </item>
     </channel>

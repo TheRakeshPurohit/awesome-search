@@ -48,7 +48,7 @@ A map of every note in the vault organized by category and theme.  This index tr
 [[Search Evaluation]] · [[NDCG]] · [[MAP]] · [[MRR]] · [[Precision and Recall]] · [[Hit Rate at K]] · [[UDCG]] · [[Diversity Metrics]] · [[Judgment Lists]] · [[Implicit Judgments]] · [[LLM as Judge]] · [[Awesome Search/Concepts/A-B Testing for Search|A-B Testing for Search]] · [[Interleaving]] · [[Session-Based Evaluation]] · [[Vector Search Evaluation]] · [[Clippings/Relevance feedback]] · [[APD]]
 
 ### Behavioral Signals & Bias
-[[Click Models]] · [[Neural Click Models]] · [[Click Signals]] · [[Clicks Residual]] · [[Position Bias]] · [[Presentation Bias]] · [[Signal Downboosting]] · [[Personalization]]
+[[Click Models]] · [[Neural Click Models]] · [[Click Signals]] · [[Clicks Residual]] · [[Position Bias]] · [[Presentation Bias]] · [[Signal Downboosting]] · [[Personalization]] · [[Exploration vs Exploitation]]
 
 ### Agentic, Generative & RAG
 [[Agentic Search]] · [[Agentic Query Workload]] · [[Conversational Search]] · [[RAG]] · [[Generative Retrieval]] · [[Differentiable Search Index]] · [[Direct Corpus Interaction]] · [[Purpose-Built Agentic Search Models]] · [[SIRA]] · [[Search-R1]] · [[Reinforcement Learning for Search]] · [[Semantic IDs]] · [[TIGER]] · [[RQ-VAE]] · [[Context Engineering]] · [[Clean Context]] · [[Hypothetical Document Embeddings]] · [[Steering Vectors]]
@@ -123,6 +123,8 @@ Conference talks and recorded presentations.
 [[Choosing Indexes for Similarity Search (Faiss in Python)]] — [[James Briggs]], [[Pinecone]]; hands-on [[FAISS]] tutorial comparing Flat, [[LSH]], [[HNSW]], and [[IVF]] on Sift1M
 
 [[Rene Kriegler - Query Relaxation]] — [[Rene Kriegler]], [[OpenSource Connections]]; [[Query Relaxation]] as a query recommendation problem — word-shape heuristics, term frequency, [[Word2Vec]] and a neural network compared for predicting which term to drop
+
+[[Roman Grebennikov - Personalizing Search Results in Real-Time]] — [[Roman Grebennikov]], Findify; [[MICES]] 2019 talk on real-time LTR personalization — [[Position Bias]] feedback loops, shuffled [[Exploration vs Exploitation]] segments, cross-merchant generic models, purchase-weighted perfect rankings
 
 ---
 

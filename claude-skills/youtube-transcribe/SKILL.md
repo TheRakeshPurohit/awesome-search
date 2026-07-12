@@ -20,6 +20,12 @@ puts video content in `Awesome Search/Videos/` with `type: video`, not `Articles
 ## Tooling (verified available on this machine)
 
 - `yt-dlp` — downloads captions and audio. **Primary path** — no transcription model needed when captions exist.
+  - If YouTube answers "Sign in to confirm you're not a bot", add
+    `--cookies-from-browser chrome`. Cookie decryption needs macOS keychain access, so
+    the command must run **without the sandbox** (expect a permission prompt).
+  - If metadata/caption calls then fail with "Requested format is not available"
+    (JS challenge), add `--ignore-no-formats-error` — formats are irrelevant for
+    captions and `--print` metadata.
 - `ffmpeg` — audio extraction (fallback path only).
 - `whisper` is **not** installed. The fallback path needs it; see step 3.
 
@@ -35,6 +41,25 @@ yt-dlp --skip-download --print "%(title)s\n%(uploader)s\n%(upload_date)s\n%(webp
 
 Capture: **title**, **channel/uploader** (→ author), **upload_date** YYYYMMDD (→ published),
 **canonical URL** (→ source), duration. Keep these — the downstream note needs them.
+
+### 1a. Fetch official chapters (always)
+
+Always also try to extract the video's official chapters (creator-defined or
+YouTube-extracted):
+
+```bash
+yt-dlp --skip-download --print "%(chapters)s" "<URL>"
+```
+
+- Output is a Python-style list of `{start_time, end_time, title}` dicts, or `NA`/empty
+  when the video has none.
+- Include the chapter list (as `MM:SS  Title` lines) in the handoff under a
+  `## Chapters` heading so the KG note can turn them into a clickable **Key Moments**
+  table (`https://www.youtube.com/watch?v=<ID>&t=<start>s` links).
+- Official chapters are often coarse or cover only part of the video (a lone
+  `<Untitled Chapter 1>` counts as none). When they're missing or thin, derive finer
+  key moments from the `.vtt` cue timestamps: locate anchor phrases of each section in
+  the caption cues and record their start times.
 
 ### 2. Primary path — extract captions (fast, preferred)
 
@@ -104,9 +129,15 @@ tags: [video]
 <cleaned transcript text>
 ```
 
-Save it to the vault's `raw_articles/` staging folder (or the scratchpad if the user prefers),
-then offer to run the `awesome-search-knowledge-graph` skill on it to create the linked
-`Videos/` note and extract entities.
+Keep this handoff in the **scratchpad only** — do **not** store the raw transcript in the
+vault (no `raw_articles/` copy, and never paste the full transcript into a vault note).
+The transcript is working material: the KG workflow reads it from the scratchpad, distills
+it into the `Videos/` note (summary, key moments, entities), and the raw text is discarded
+with the scratchpad. If a staging copy was ever written to the vault, delete it once
+processing is done.
+
+Then offer to run the `awesome-search-knowledge-graph` skill on the scratchpad handoff to
+create the linked `Videos/` note and extract entities.
 
 ## Guardrails
 

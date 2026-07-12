@@ -95,6 +95,8 @@ When evaluating search systems, position bias affects:
 - [[Getting Started on Search Relevance for the Understaffed Search Team]]
 - [[What is Presentation Bias in Search]]
 
+- [[Roman Grebennikov - Personalizing Search Results in Real-Time]] — 🎥 position bias in the wild: click histograms identical for random vs real ranking; fixed with a shuffled [[Exploration vs Exploitation]] segment
+
 ## People
 
 - [[Daniel Tunkelang]] — position bias in search quality discussion

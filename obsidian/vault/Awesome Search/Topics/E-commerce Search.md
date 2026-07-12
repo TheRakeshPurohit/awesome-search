@@ -133,3 +133,4 @@ Start at Level 1. Only move up if A/B test shows improvement.
 - [[Results Merchandising]] — business rules layer above relevance
 - [[Personalization in Search]] — user-specific ranking
 - [[Rene Kriegler - Query Relaxation]] — talk on handling zero-result e-commerce queries via ML-driven [[Query Relaxation]]
+- [[Roman Grebennikov - Personalizing Search Results in Real-Time]] — 🎥 real-time LTR personalization for SMB stores (Findify, [[MICES]] 2019)

@@ -113,6 +113,10 @@ Standard NDCG assumes irrelevant documents are neutral (grade 0). In LLM/RAG pip
 - [[Search Evaluation]] — broader evaluation framework
 - [[LLM as Judge]] — automated relevance judgments
 
+
+**Related videos:**
+- [[Roman Grebennikov - Personalizing Search Results in Real-Time]] — 🎥 the "perfect ranking" behind NDCG encodes a business goal: weighting purchases over clicks (or sorting by margin) changes what the metric optimizes
+
 ## People
 
 - [[Daniel Tunkelang]] — frequent NDCG commentary; Evaluating Search series

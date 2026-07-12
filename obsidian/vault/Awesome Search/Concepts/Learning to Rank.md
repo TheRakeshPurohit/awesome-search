@@ -154,6 +154,8 @@ Unbiased training data → significantly better LTR models.
 - [[Learning To Rank (LTR) - Elasticsearch Native]] — Elastic native LTR (8.12+); GBDT/XGBoost via eland
 - [[Search using LTR - Elastic Docs]] — native LTR as rescorer / retriever
 
+- [[Roman Grebennikov - Personalizing Search Results in Real-Time]] — 🎥 LTR across ~1,500 merchants at Findify: two-phase ranking, position-bias degradation, exploration segments
+
 ## People
 
 - [[Doug Turnbull]] — [[How LambdaMART Works]]; LTR in production

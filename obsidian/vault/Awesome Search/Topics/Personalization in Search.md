@@ -128,3 +128,4 @@ Personalization is harder to evaluate offline than generic ranking:
 - [[Isabella Tromba]] — search infrastructure and personalization at Slack
 - [[Search Result Diversity]] — the counterbalance to personalization
 - [[Conversational and Agentic Search]] — personalization within multi-turn sessions
+- [[Roman Grebennikov - Personalizing Search Results in Real-Time]] — 🎥 MICES 2019 talk: real-time session-based personalization at Findify, position-bias feedback loops, exploration/exploitation traffic splits

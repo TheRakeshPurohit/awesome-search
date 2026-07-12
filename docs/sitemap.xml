@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</loc>
-    <lastmod>2026-07-05T11:12:51.000Z</lastmod>
+    <lastmod>2026-07-06T05:59:15.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Articles/1000x-Faster-Spelling-Correction-Algorithm---SymSpell</loc>
     <lastmod>2026-05-14T22:00:00.000Z</lastmod>
@@ -1202,6 +1202,9 @@
     <loc>https://frutik.github.io/awesome-search/Concepts/Embeddings</loc>
     <lastmod>2026-06-22T11:09:58.000Z</lastmod>
   </url><url>
+    <loc>https://frutik.github.io/awesome-search/Concepts/Exploration-vs-Exploitation</loc>
+    <lastmod>2026-07-11T22:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://frutik.github.io/awesome-search/Concepts/Faceted-Search</loc>
     <lastmod>2026-06-27T15:01:01.000Z</lastmod>
   </url><url>
@@ -1581,10 +1584,10 @@
     <lastmod>2026-07-05T12:32:20.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/History</loc>
-    <lastmod>2026-07-05T12:32:20.000Z</lastmod>
+    <lastmod>2026-07-06T05:59:15.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Index</loc>
-    <lastmod>2026-07-05T11:12:51.000Z</lastmod>
+    <lastmod>2026-07-06T05:59:15.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People</loc>
     <lastmod>2026-06-18T22:00:00.000Z</lastmod>
@@ -1683,7 +1686,7 @@
     <lastmod>2026-05-31T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People/Doug-Turnbull</loc>
-    <lastmod>2026-07-06T05:58:41.050Z</lastmod>
+    <lastmod>2026-07-12T08:27:22.422Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People/Elzbieta-Jakubowska</loc>
     <lastmod>2026-06-27T15:01:01.000Z</lastmod>
@@ -2207,6 +2210,9 @@
     <loc>https://frutik.github.io/awesome-search/Videos/Rene-Kriegler---Query-Relaxation</loc>
     <lastmod>2026-07-05T11:12:51.000Z</lastmod>
   </url><url>
+    <loc>https://frutik.github.io/awesome-search/Videos/Roman-Grebennikov---Personalizing-Search-Results-in-Real-Time</loc>
+    <lastmod>2026-07-11T22:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://frutik.github.io/awesome-search/global_toc</loc>
-    <lastmod>2026-07-05T11:12:51.000Z</lastmod>
+    <lastmod>2026-07-06T05:59:15.000Z</lastmod>
   </url></urlset>

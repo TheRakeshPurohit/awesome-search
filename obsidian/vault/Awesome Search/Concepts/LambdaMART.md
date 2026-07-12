@@ -42,3 +42,4 @@ LambdaMART (Burges, 2010) is the dominant production [[Learning to Rank]] algori
 ## Related
 
 - [[Learning to Rank]] · [[Ranking Objectives]] · [[NDCG]] · [[RankNet]] · [[Metarank]]
+- [[Roman Grebennikov - Personalizing Search Results in Real-Time]] — 🎥 LambdaMART in production at Findify; unbiased (exploration-trained) LambdaMART beat both baseline and naive LambdaMART in A/B tests
