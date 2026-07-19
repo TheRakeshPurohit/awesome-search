@@ -7,6 +7,10 @@ tags:
 
 Chronological log of notes added to this knowledge graph. Newest first.
 
+## 2026-07-19 — LTR concept enriched with Grebennikov's two training lessons (0 new notes)
+
+Enriched [[Learning to Rank]] with the two production lessons from [[Roman Grebennikov - Personalizing Search Results in Real-Time]] that previously lived only in the video note: a new section **"What the Model Optimizes Is a Business Decision"** (the Stanley bong story — raw clicks reward curiosity; weighting purchases in the [[NDCG]] perfect ranking encodes the business goal, and the same lever optimizes margin) and a new subsection **"Feedback Loops: Don't Train on Data Your Model Produced"** under Position Bias in LTR Training (the +8% → +6% degradation from training on the model's own clicks; fix via an [[Exploration vs Exploitation]] ~1% shuffled exploration segment, with IPS as the alternative). Also expanded the video's blurb in the note's Articles list to name both lessons.
+
 ## 2026-07-12 — Grebennikov MICES 2019 real-time personalization talk (2 notes)
 
 Processed the [[MICES]] 2019 talk [[Roman Grebennikov - Personalizing Search Results in Real-Time]] (Findify) from YouTube captions — real-time LTR across ~1,500 merchants: [[Position Bias]] feedback-loop degradation, the shuffled ~1% exploration segment, one generic cross-merchant model with feature scaling, and purchase-weighted perfect rankings for [[NDCG]] (the Stanley bong story). Includes a clickable Key Moments timestamp table derived from caption timings (the video's official chapters cover only the first half). Also created [[Exploration vs Exploitation]] (Concepts → Behavioral Signals & Bias). Backlinked from [[Roman Grebennikov]], [[MICES]], [[Learning to Rank]], [[LambdaMART]], [[NDCG]], [[Position Bias]], [[Personalization in Search]], [[E-commerce Search]]; registered in [[global_toc]], [[Videos]], [[index|index.md]], [[Index]], and [[All about Information Retrieval & Search]]. (A Findify company note was deliberately not kept — mentions stay as plain text.)

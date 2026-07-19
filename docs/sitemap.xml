@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</loc>
-    <lastmod>2026-07-06T05:59:15.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Articles/1000x-Faster-Spelling-Correction-Algorithm---SymSpell</loc>
     <lastmod>2026-05-14T22:00:00.000Z</lastmod>
@@ -1275,7 +1275,7 @@
     <lastmod>2026-06-18T11:05:50.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Concepts/LambdaMART</loc>
-    <lastmod>2026-06-18T11:05:50.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Concepts/Late-Interaction</loc>
     <lastmod>2026-06-29T13:21:50.000Z</lastmod>
@@ -1284,7 +1284,7 @@
     <lastmod>2026-06-11T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Concepts/Learning-to-Rank</loc>
-    <lastmod>2026-06-29T13:21:50.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Concepts/Linear-Score-Combination</loc>
     <lastmod>2026-05-15T22:00:00.000Z</lastmod>
@@ -1320,7 +1320,7 @@
     <lastmod>2026-05-16T13:41:13.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Concepts/NDCG</loc>
-    <lastmod>2026-07-03T09:07:24.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Concepts/Neural-Click-Models</loc>
     <lastmod>2026-06-26T22:00:00.000Z</lastmod>
@@ -1344,7 +1344,7 @@
     <lastmod>2026-05-31T16:39:23.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Concepts/Position-Bias</loc>
-    <lastmod>2026-05-31T16:39:23.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Concepts/Precision-and-Recall</loc>
     <lastmod>2026-05-16T13:41:13.000Z</lastmod>
@@ -1584,10 +1584,10 @@
     <lastmod>2026-07-05T12:32:20.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/History</loc>
-    <lastmod>2026-07-06T05:59:15.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Index</loc>
-    <lastmod>2026-07-06T05:59:15.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People</loc>
     <lastmod>2026-06-18T22:00:00.000Z</lastmod>
@@ -1686,7 +1686,7 @@
     <lastmod>2026-05-31T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People/Doug-Turnbull</loc>
-    <lastmod>2026-07-12T08:27:22.422Z</lastmod>
+    <lastmod>2026-07-19T09:58:27.172Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People/Elzbieta-Jakubowska</loc>
     <lastmod>2026-06-27T15:01:01.000Z</lastmod>
@@ -1878,7 +1878,7 @@
     <lastmod>2026-05-31T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People/Roman-Grebennikov</loc>
-    <lastmod>2026-06-11T09:20:46.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/People/Roshmita-Dey</loc>
     <lastmod>2026-05-31T22:00:00.000Z</lastmod>
@@ -2136,7 +2136,7 @@
     <lastmod>2026-07-02T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Topics/Personalization-in-Search</loc>
-    <lastmod>2026-05-16T13:41:13.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/Topics/Query-Understanding-in-Practice</loc>
     <lastmod>2026-05-15T22:00:00.000Z</lastmod>
@@ -2214,5 +2214,5 @@
     <lastmod>2026-07-11T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://frutik.github.io/awesome-search/global_toc</loc>
-    <lastmod>2026-07-06T05:59:15.000Z</lastmod>
+    <lastmod>2026-07-12T08:27:57.000Z</lastmod>
   </url></urlset>

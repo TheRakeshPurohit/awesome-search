@@ -10,61 +10,61 @@
     <link>https://frutik.github.io/awesome-search/People/Doug-Turnbull</link>
     <guid>https://frutik.github.io/awesome-search/People/Doug-Turnbull</guid>
     <description><![CDATA[ Doug Turnbull Co-founder of OpenSource Connections (OSC); currently independent (previously Shopify, then Reddit); co-author of Relevant Search (O’Reilly). ]]></description>
-    <pubDate>Sun, 12 Jul 2026 08:27:22 GMT</pubDate>
-  </item><item>
-    <title>Exploration vs Exploitation</title>
-    <link>https://frutik.github.io/awesome-search/Concepts/Exploration-vs-Exploitation</link>
-    <guid>https://frutik.github.io/awesome-search/Concepts/Exploration-vs-Exploitation</guid>
-    <description><![CDATA[ Exploration vs Exploitation The trade-off between showing users what the system currently believes is best (exploitation) and deliberately showing something uncertain to gather signal (exploration). ]]></description>
-    <pubDate>Sat, 11 Jul 2026 22:00:00 GMT</pubDate>
-  </item><item>
-    <title>Personalizing search results in real-time (MICES 2019)</title>
-    <link>https://frutik.github.io/awesome-search/Videos/Roman-Grebennikov---Personalizing-Search-Results-in-Real-Time</link>
-    <guid>https://frutik.github.io/awesome-search/Videos/Roman-Grebennikov---Personalizing-Search-Results-in-Real-Time</guid>
-    <description><![CDATA[ Personalizing Search Results in Real-Time (MICES 2019) 📺 Watch: www.youtube.com/watch · 📄 Slides Talk by Roman Grebennikov (Findify) at MICES 2019. ]]></description>
-    <pubDate>Sat, 11 Jul 2026 22:00:00 GMT</pubDate>
+    <pubDate>Sun, 19 Jul 2026 09:58:27 GMT</pubDate>
   </item><item>
     <title>All about Information Retrieval &amp; Search</title>
     <link>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</link>
     <guid>https://frutik.github.io/awesome-search/All-about-Information-Retrieval--and--Search</guid>
     <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Mon, 06 Jul 2026 05:59:15 GMT</pubDate>
+    <pubDate>Sun, 12 Jul 2026 08:27:57 GMT</pubDate>
+  </item><item>
+    <title>LambdaMART</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/LambdaMART</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/LambdaMART</guid>
+    <description><![CDATA[ LambdaMART Stub. Created as a placeholder — expand with vault-sourced content. ]]></description>
+    <pubDate>Sun, 12 Jul 2026 08:27:57 GMT</pubDate>
+  </item><item>
+    <title>Learning to Rank</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/Learning-to-Rank</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/Learning-to-Rank</guid>
+    <description><![CDATA[ Learning to Rank Definition Learning to Rank (LTR) is the application of machine learning to the ranking problem in information retrieval — training models to produce optimal rankings given a query and a set of candidate documents, using labeled (query, document, relevance) training data. ]]></description>
+    <pubDate>Sun, 12 Jul 2026 08:27:57 GMT</pubDate>
+  </item><item>
+    <title>NDCG (Normalized Discounted Cumulative Gain)</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/NDCG</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/NDCG</guid>
+    <description><![CDATA[ NDCG (Normalized Discounted Cumulative Gain) Definition NDCG is the most widely used ranking quality metric in information retrieval. ]]></description>
+    <pubDate>Sun, 12 Jul 2026 08:27:57 GMT</pubDate>
+  </item><item>
+    <title>Position Bias</title>
+    <link>https://frutik.github.io/awesome-search/Concepts/Position-Bias</link>
+    <guid>https://frutik.github.io/awesome-search/Concepts/Position-Bias</guid>
+    <description><![CDATA[ Position Bias Definition Position bias is the tendency for users to click on higher-ranked search results independent of their actual relevance — simply because they appear earlier. ]]></description>
+    <pubDate>Sun, 12 Jul 2026 08:27:57 GMT</pubDate>
   </item><item>
     <title>History</title>
     <link>https://frutik.github.io/awesome-search/History</link>
     <guid>https://frutik.github.io/awesome-search/History</guid>
     <description><![CDATA[ Awesome Search — Notes History Chronological log of notes added to this knowledge graph. Newest first. ]]></description>
-    <pubDate>Mon, 06 Jul 2026 05:59:15 GMT</pubDate>
+    <pubDate>Sun, 12 Jul 2026 08:27:57 GMT</pubDate>
   </item><item>
     <title>Index</title>
     <link>https://frutik.github.io/awesome-search/Index</link>
     <guid>https://frutik.github.io/awesome-search/Index</guid>
     <description><![CDATA[ Awesome Search — Information Retrieval &amp; Search Knowledge Graph Hello, I am Andrew. ]]></description>
-    <pubDate>Mon, 06 Jul 2026 05:59:15 GMT</pubDate>
+    <pubDate>Sun, 12 Jul 2026 08:27:57 GMT</pubDate>
   </item><item>
-    <title>global_toc</title>
-    <link>https://frutik.github.io/awesome-search/global_toc</link>
-    <guid>https://frutik.github.io/awesome-search/global_toc</guid>
-    <description><![CDATA[ Global Table of Contents A map of every note in the vault organized by category and theme. ]]></description>
-    <pubDate>Mon, 06 Jul 2026 05:59:15 GMT</pubDate>
+    <title>Roman Grebennikov</title>
+    <link>https://frutik.github.io/awesome-search/People/Roman-Grebennikov</link>
+    <guid>https://frutik.github.io/awesome-search/People/Roman-Grebennikov</guid>
+    <description><![CDATA[ Roman Grebennikov Engineer and co-creator/maintainer of Metarank, the open-source LTR secondary re-ranker. ]]></description>
+    <pubDate>Sun, 12 Jul 2026 08:27:57 GMT</pubDate>
   </item><item>
-    <title>Federated vs Unified Search</title>
-    <link>https://frutik.github.io/awesome-search/Topics/Federated-vs-Unified-Search</link>
-    <guid>https://frutik.github.io/awesome-search/Topics/Federated-vs-Unified-Search</guid>
-    <description><![CDATA[ Federated vs Unified Search Two opposing answers to the same problem — one search box over many heterogeneous data sources. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 22:00:00 GMT</pubDate>
-  </item><item>
-    <title>History-2</title>
-    <link>https://frutik.github.io/awesome-search/History-2</link>
-    <guid>https://frutik.github.io/awesome-search/History-2</guid>
-    <description><![CDATA[ Awesome Search — Note History (Archive) Older entries, 2026-06-18 and earlier. The 10 most recent days live in History. Newest first. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 12:32:20 GMT</pubDate>
-  </item><item>
-    <title>Query Relaxation</title>
-    <link>https://frutik.github.io/awesome-search/Concepts/Query-Relaxation</link>
-    <guid>https://frutik.github.io/awesome-search/Concepts/Query-Relaxation</guid>
-    <description><![CDATA[ Query Relaxation Progressively loosening query constraints when a search returns too few (or zero) results, in order to surface something useful rather than failing the user entirely. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 11:12:51 GMT</pubDate>
+    <title>Personalization in Search</title>
+    <link>https://frutik.github.io/awesome-search/Topics/Personalization-in-Search</link>
+    <guid>https://frutik.github.io/awesome-search/Topics/Personalization-in-Search</guid>
+    <description><![CDATA[ Personalization in Search Personalization adapts search results to the individual user — their history, preferences, context, and intent — rather than returning the same ranked list for everyone. ]]></description>
+    <pubDate>Sun, 12 Jul 2026 08:27:57 GMT</pubDate>
   </item>
     </channel>
   </rss>

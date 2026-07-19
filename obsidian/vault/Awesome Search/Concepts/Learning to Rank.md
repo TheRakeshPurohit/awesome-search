@@ -114,6 +114,10 @@ LTR requires labeled data:
 - **Click data**: position-debiased click labels from query logs ([[Click Signals]])
 - **Conversion data**: purchase signals for e-commerce
 
+## What the Model Optimizes Is a Business Decision
+
+The "perfect ranking" that NDCG (and hence LambdaMART's lambdas) is computed against is *constructed* from interaction weights — and that construction encodes a business goal. Training on raw clicks optimizes for curiosity, not value: in [[Roman Grebennikov]]'s Findify war story, a giant bong shot to the top of a collection because everyone clicked it out of curiosity and nobody bought it. Weighting purchases far above clicks in the label construction sent it back down — and the same lever can optimize for margin instead of purchases. Decide the target metric before training; see [[Roman Grebennikov - Personalizing Search Results in Real-Time]].
+
 ## Position Bias in LTR Training
 
 Click data has position bias — documents at rank 1 get many clicks regardless of quality. Must correct with:
@@ -121,6 +125,10 @@ Click data has position bias — documents at rank 1 get many clicks regardless 
 - **Counterfactual evaluation**: compare click rates controlling for position
 
 Unbiased training data → significantly better LTR models.
+
+### Feedback Loops: Don't Train on Data Your Model Produced
+
+A model trained on clicks over its own rankings eats its own output: users click top positions regardless of quality, so the model reinforces whatever it already ranks highly. Symptom (Findify): A/B metrics improve after launch, then slowly degrade (+8% → +6%). Fix: an [[Exploration vs Exploitation]] traffic split — a small (~1%) segment serves the first page shuffled, and *only* that segment feeds training, so position cancels out over impressions. IPS is the statistical alternative when you can't afford exploration traffic. See [[Roman Grebennikov - Personalizing Search Results in Real-Time]].
 
 ## Related Concepts
 
@@ -154,7 +162,7 @@ Unbiased training data → significantly better LTR models.
 - [[Learning To Rank (LTR) - Elasticsearch Native]] — Elastic native LTR (8.12+); GBDT/XGBoost via eland
 - [[Search using LTR - Elastic Docs]] — native LTR as rescorer / retriever
 
-- [[Roman Grebennikov - Personalizing Search Results in Real-Time]] — 🎥 LTR across ~1,500 merchants at Findify: two-phase ranking, position-bias degradation, exploration segments
+- [[Roman Grebennikov - Personalizing Search Results in Real-Time]] — 🎥 LTR across ~1,500 merchants at Findify: two-phase ranking, the feedback-loop degradation from training on own clicks (fix: exploration segments), and the bong story — the target metric is a business decision
 
 ## People
 
